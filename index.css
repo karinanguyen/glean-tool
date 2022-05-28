@@ -1,0 +1,19 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+#textarea{
+    background: rgb(243, 246, 248);
+    text-align: left; 
+    display: block;
+    width: 40%;
+    font-size: 1.0rem;
+    color: rgb(77, 79, 87);
+    padding: 1rem;
+    border-color: rgb(232, 236, 239);
+    border-radius: 4px;
+    font-family: "IBM Plex Mono", monospace;
+    resize: vertical;
+    outline: none !important;
+}
