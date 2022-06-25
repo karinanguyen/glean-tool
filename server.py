@@ -29,7 +29,7 @@ def static_files(path):
 )  # tells Flask to use this as the url for the server (handle requests)
 def extract_relations():
     # JUST FOR TESTING
-    with open("sample_response.json") as file:
+    with open("sample2.json") as file:
         return file.read()
 
     api_key = os.environ["API_KEY"]

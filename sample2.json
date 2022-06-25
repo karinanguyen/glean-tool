@@ -1,0 +1,2649 @@
+{
+    "activity_done": [
+        {
+            "subject": "Trump",
+            "object": "real-estate project in Russia",
+            "confidence": 0.6649,
+            "context": "Section IV of this Report details the contacts between Russia and the Trump Campaign during the campaign and transition periods, the most salient of which are summarized below in chronological order\n\n\n\n\n2015. Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow.",
+            "object_span": [
+                289,
+                318
+            ],
+            "context_span": [
+                4748,
+                5095
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "signed a Letter of Intent for Trump Tower Moscow",
+            "confidence": 0.6219,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov.",
+            "object_span": [
+                155,
+                203
+            ],
+            "context_span": [
+                4957,
+                5346
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "travel to Russia",
+            "confidence": 0.6512,
+            "context": "Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails.",
+            "object_span": [
+                347,
+                363
+            ],
+            "context_span": [
+                5096,
+                5860
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "speaking in graphic terms about women",
+            "confidence": 0.7024,
+            "context": "On October 7, 2016, the media released video of candidate Trump speaking in graphic terms about women years earlier, which was considered damaging to his candidacy. Less than an hour later, WikiLeaks made its second release: thousands of John Podesta\u2019s emails that had been stolen by the GRU in late March 2016. The FBI and other U.S. government institutions were at the time continuing their investigation of suspected Russian government efforts to interfere in the presidential election. That same day, October 7, the Department of Homeland Security and the Office of the Director of National Intelligence issued a joint public statement \"that the Russian Government directed the recent compromises of e-mails from US persons and institutions, including from US political organizations.\"",
+            "object_span": [
+                64,
+                101
+            ],
+            "context_span": [
+                9701,
+                10491
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "tweeted",
+            "confidence": 0.7348,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                438,
+                445
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "curtail the Special Counsel \u2019 s investigation",
+            "confidence": 0.5671,
+            "context": "\u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment. He told advisors that it was the end of his presidency, sought to have Attorney General Jefferson (Jeff) Sessions unrecuse from the Russia investigation and to have the Special Counsel removed, and engaged in efforts to curtail the Special Counsel\u2019s investigation and prevent the disclosure of evidence to it, including through public and private contacts with potential witnesses. Those and related actions are described and analyzed in Volume II of the report.",
+            "object_span": [
+                385,
+                428
+            ],
+            "context_span": [
+                14860,
+                15488
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "foreign policy speech",
+            "confidence": 0.637,
+            "context": "See Justice Manual \u00a7 9-27.000 et seq. (2018). The standard set forth in the Justice Manual is whether the conduct constitutes a crime; if so, whether admissible evidence would probably be sufficient to obtain and sustain a conviction; and whether prosecution would serve a substantial federal interest that could not be adequately served by prosecution elsewhere or through non-criminal alternatives.  For example, the investigation established that interactions between Russian Ambassador Kislyak and Trump Campaign officials both at the candidate\u2019s April 2016 foreign policy speech in Washington, D.C., and during the week of the Republican National Convention were brief, public, and non-substantive.",
+            "object_span": [
+                562,
+                583
+            ],
+            "context_span": [
+                15761,
+                16561
+            ]
+        },
+        {
+            "subject": "Elect Trump",
+            "object": "tweeted",
+            "confidence": 0.7365,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                438,
+                445
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Guccifer 2.0.",
+            "object": "disseminating stolen materials",
+            "confidence": 0.7338,
+            "context": "The GRU stole hundreds of thousands of documents from the compromised email accounts and networks. Around the time that the DNC announced in mid-June 2016 the Russian government\u2019s role in hacking its network, the GRU began disseminating stolen materials through the fictitious online personas \"DCLeaks\" and \"Guccifer 2.0.\" The GRU later released additional materials through the organization WikiLeaks. The presidential campaign of Donald J. Trump (\"Trump Campaign\" or \"Campaign\") showed interest in WikiLeaks\u2019s releases of documents and welcomed their potential to damage candidate Clinton. Beginning in June 2016, forecast to senior Campaign officials that WikiLeaks would release information damaging to candidate Clinton. WikiLeaks\u2019s first release came in July 2016.",
+            "object_span": [
+                223,
+                253
+            ],
+            "context_span": [
+                2257,
+                3029
+            ]
+        },
+        {
+            "subject": "Michael Cohen",
+            "object": "emailed and spoke about the project",
+            "confidence": 0.6226,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                285,
+                320
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Cohen",
+            "object": "emailed and spoke about the project",
+            "confidence": 0.6268,
+            "context": "Section IV of this Report details the contacts between Russia and the Trump Campaign during the campaign and transition periods, the most salient of which are summarized below in chronological order\n\n\n\n\n2015. Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov.",
+            "object_span": [
+                494,
+                529
+            ],
+            "context_span": [
+                4748,
+                5346
+            ]
+        },
+        {
+            "subject": "Cohen",
+            "object": "travel to Russia",
+            "confidence": 0.5653,
+            "context": "Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails.",
+            "object_span": [
+                347,
+                363
+            ],
+            "context_span": [
+                5096,
+                5860
+            ]
+        },
+        {
+            "subject": "Cohen",
+            "object": "making false statements to Congress about the Trump Moscow project",
+            "confidence": 0.7149,
+            "context": "George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project. And in February 2019, the U.S. District Court for the District of Columbia found that Manafort lied to the Office and the grand jury concerning his interactions and communications with Konstantin Kilimnik about Trump Campaign polling data and a peace plan for Ukraine.",
+            "object_span": [
+                383,
+                449
+            ],
+            "context_span": [
+                18596,
+                19315
+            ]
+        },
+        {
+            "subject": "George Papadopoulos",
+            "object": "foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud",
+            "confidence": 0.5162,
+            "context": "Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton.",
+            "object_span": [
+                22,
+                102
+            ],
+            "context_span": [
+                5491,
+                6161
+            ]
+        },
+        {
+            "subject": "Joseph Mifsud",
+            "object": "traveled to Moscow",
+            "confidence": 0.6517,
+            "context": "Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton.",
+            "object_span": [
+                163,
+                181
+            ],
+            "context_span": [
+                5491,
+                6161
+            ]
+        },
+        {
+            "subject": "Mifsud",
+            "object": "traveled to Moscow",
+            "confidence": 0.6765,
+            "context": "Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton.",
+            "object_span": [
+                150,
+                168
+            ],
+            "context_span": [
+                5504,
+                6161
+            ]
+        },
+        {
+            "subject": "Mifsud",
+            "object": "arrange a meeting between the Campaign and the Russian government",
+            "confidence": 0.6285,
+            "context": "Throughout that period of time and for several months thereafter, Papadopoulos worked with Mifsud and two Russian nationals to arrange a meeting between the Campaign and the Russian government. No meeting took place. Summer 2016. Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\"",
+            "object_span": [
+                127,
+                192
+            ],
+            "context_span": [
+                6161,
+                6943
+            ]
+        },
+        {
+            "subject": "Papadopoulos",
+            "object": "made early contact with Joseph Mifsud",
+            "confidence": 0.7166,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                598,
+                635
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Papadopoulos",
+            "object": "to arrange a meeting between the Campaign and the Russian government",
+            "confidence": 0.7249,
+            "context": "One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton. Throughout that period of time and for several months thereafter, Papadopoulos worked with Mifsud and two Russian nationals to arrange a meeting between the Campaign and the Russian government. No meeting took place. Summer 2016. Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President.",
+            "object_span": [
+                425,
+                493
+            ],
+            "context_span": [
+                5861,
+                6548
+            ]
+        },
+        {
+            "subject": "Paul Manafort",
+            "object": "met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence. Kilimnik requested the meeting to deliver in person a peace plan for Ukraine",
+            "confidence": 0.4824,
+            "context": "On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence. Kilimnik requested the meeting to deliver in person a peace plan for Ukraine that Manafort acknowledged to the Special Counsel\u2019s Office was a \"backdoor\" way for Russia to control part of eastern Ukraine; both men believed the plan would require candidate Trump\u2019s assent to succeed (were he to be elected President).",
+            "object_span": [
+                273,
+                488
+            ],
+            "context_span": [
+                8658,
+                9386
+            ]
+        },
+        {
+            "subject": "Carter Page",
+            "object": "traveled in his personal capacity to Moscow",
+            "confidence": 0.6573,
+            "context": "Days after the June 9 meeting, on June 14, 2016, a cybersecurity firm and the DNC announced that Russian government hackers had infiltrated the DNC and obtained access to opposition research on candidate Trump, among other documents. In July 2016, Campaign foreign policy advisor Carter Page traveled in his personal capacity to Moscow and gave the keynote address at the New Economic School. Page had lived and worked in Russia between 2003 and 2007. After returning to the United States, Page became acquainted with at least two Russian intelligence officers, one of whom was later charged in 2015 with conspiracy to act as an unregistered agent of Russia. Page\u2019s July 2016 trip to Moscow and his advocacy for pro-Russian foreign policy drew media attention.",
+            "object_span": [
+                292,
+                335
+            ],
+            "context_span": [
+                7195,
+                7956
+            ]
+        },
+        {
+            "subject": "Page",
+            "object": "gave the keynote address at the New Economic School",
+            "confidence": 0.6489,
+            "context": "The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information. Days after the June 9 meeting, on June 14, 2016, a cybersecurity firm and the DNC announced that Russian government hackers had infiltrated the DNC and obtained access to opposition research on candidate Trump, among other documents. In July 2016, Campaign foreign policy advisor Carter Page traveled in his personal capacity to Moscow and gave the keynote address at the New Economic School.",
+            "object_span": [
+                694,
+                745
+            ],
+            "context_span": [
+                6840,
+                7588
+            ]
+        },
+        {
+            "subject": "Page",
+            "object": "lived and worked in Russia",
+            "confidence": 0.5857,
+            "context": "Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton. Page had lived and worked in Russia between 2003 and 2007. After returning to the United States, Page became acquainted with at least two Russian intelligence officers, one of whom was later charged in 2015 with conspiracy to act as an unregistered agent of Russia.",
+            "object_span": [
+                483,
+                509
+            ],
+            "context_span": [
+                5688,
+                6488
+            ]
+        },
+        {
+            "subject": "Page",
+            "object": "advocacy for pro-Russian foreign policy",
+            "confidence": 0.67,
+            "context": "The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. After returning to the United States, Page became acquainted with at least two Russian intelligence officers, one of whom was later charged in 2015 with conspiracy to act as an unregistered agent of Russia. Page\u2019s July 2016 trip to Moscow and his advocacy for pro-Russian foreign policy drew media attention.",
+            "object_span": [
+                587,
+                626
+            ],
+            "context_span": [
+                5347,
+                6147
+            ]
+        },
+        {
+            "subject": "Konstantin Kilimnik",
+            "object": "deliver in person a peace plan for Ukraine",
+            "confidence": 0.6545,
+            "context": "On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence. Kilimnik requested the meeting to deliver in person a peace plan for Ukraine that Manafort acknowledged to the Special Counsel\u2019s Office was a \"backdoor\" way for Russia to control part of eastern Ukraine; both men believed the plan would require candidate Trump\u2019s assent to succeed (were he to be elected President).",
+            "object_span": [
+                446,
+                488
+            ],
+            "context_span": [
+                8658,
+                9386
+            ]
+        },
+        {
+            "subject": "Kilimnik",
+            "object": "deliver in person a peace plan for Ukraine",
+            "confidence": 0.7147,
+            "context": "The Campaign then distanced itself from Page and, by late September 2016, removed him from the Campaign. July 2016 was also the month WikiLeaks first released emails stolen by the GRU from the DNC. On July 22, 2016, WikiLeaks posted thousands of internal DNC documents revealing information about the Clinton Campaign.  Kilimnik requested the meeting to deliver in person a peace plan for Ukraine that Manafort acknowledged to the Special Counsel\u2019s Office was a \"backdoor\" way for Russia to control part of eastern Ukraine; both men believed the plan would require candidate Trump\u2019s assent to succeed (were he to be elected President). They also discussed the status of the Trump Campaign and Manafort\u2019s strategy for winning Democratic votes in Midwestern states.",
+            "object_span": [
+                354,
+                396
+            ],
+            "context_span": [
+                7957,
+                8757
+            ]
+        },
+        {
+            "subject": "Manafort",
+            "object": "met in New York City with his long-time business associate Konstantin Kilimnik",
+            "confidence": 0.6157,
+            "context": "Within days, there was public reporting that U.S. intelligence agencies had \"high confidence\" that the Russian government was behind the theft of emails and documents from the DNC. And within a week of the release, a foreign government informed the FBI about its May 2016 interaction with Papadopoulos and his statement that the Russian government could assist the Trump Campaign. On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence.",
+            "object_span": [
+                654,
+                732
+            ],
+            "context_span": [
+                8277,
+                9070
+            ]
+        },
+        {
+            "subject": "Manafort",
+            "object": "caused internal polling data to be shared with Kilimnik",
+            "confidence": 0.4903,
+            "context": "They also discussed the status of the Trump Campaign and Manafort\u2019s strategy for winning Democratic votes in Midwestern states. Months before that meeting, Manafort had caused internal polling data to be shared with Kilimnik, and the sharing continued for some period of time after their August meeting\n\nFall 2016. On October 7, 2016, the media released video of candidate Trump speaking in graphic terms about women years earlier, which was considered damaging to his candidacy. Less than an hour later, WikiLeaks made its second release: thousands of John Podesta\u2019s emails that had been stolen by the GRU in late March 2016.",
+            "object_span": [
+                169,
+                224
+            ],
+            "context_span": [
+                9387,
+                10013
+            ]
+        },
+        {
+            "subject": "Manafort",
+            "object": "lied to the Office",
+            "confidence": 0.5874,
+            "context": "And in February 2019, the U.S. District Court for the District of Columbia found that Manafort lied to the Office and the grand jury concerning his interactions and communications with Konstantin Kilimnik about Trump Campaign polling data and a peace plan for Ukraine. The Office investigated several other events that have been publicly reported to involve potential Russia-related contacts. For example, the investigation established that interactions between Russian Ambassador Kislyak and Trump Campaign officials both at the candidate\u2019s April 2016 foreign policy speech in Washington, D.C., and during the week of the Republican National Convention were brief, public, and non-substantive.",
+            "object_span": [
+                95,
+                113
+            ],
+            "context_span": [
+                19047,
+                19746
+            ]
+        },
+        {
+            "subject": "Kirill Dmitriev",
+            "object": "tried to make contact with the incoming administration",
+            "confidence": 0.7847,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there Kirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                305,
+                359
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Dmitriev",
+            "object": "tried to make contact with the incoming administration",
+            "confidence": 0.7244,
+            "context": "Post-2016 Election. Immediately after the November 8 election, Russian government officials and prominent Russian businessmen began trying to make inroads into the new administration. The most senior levels of the Russian government encouraged these efforts. The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there Kirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration.",
+            "object_span": [
+                564,
+                618
+            ],
+            "context_span": [
+                10681,
+                11301
+            ]
+        },
+        {
+            "subject": "Dmitriev",
+            "object": "discussed U. S.-Russia relations",
+            "confidence": 0.5891,
+            "context": "Months before that meeting, Manafort had caused internal polling data to be shared with Kilimnik, and the sharing continued for some period of time after their August meeting\n\nFall 2016. On October 7, 2016, the media released video of candidate Trump speaking in graphic terms about women years earlier, which was considered damaging to his candidacy. Less than an hour later, WikiLeaks made its second release: thousands of John Podesta\u2019s emails that had been stolen by the GRU in late March 2016. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                580,
+                611
+            ],
+            "context_span": [
+                9515,
+                10315
+            ]
+        },
+        {
+            "subject": "Dmitriev",
+            "object": "collaborated on a short written reconciliation plan",
+            "confidence": 0.6207,
+            "context": "During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team. Dmitriev and Kushner\u2019s friend collaborated on a short written reconciliation plan for the United States and Russia, which Dmitriev implied had been cleared through Putin. The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions.",
+            "object_span": [
+                189,
+                240
+            ],
+            "context_span": [
+                11578,
+                12338
+            ]
+        },
+        {
+            "subject": "Kushner",
+            "object": "gave copies to Bannon and incoming Secretary of State Rex Tillerson",
+            "confidence": 0.6701,
+            "context": "Dmitriev and Kushner\u2019s friend collaborated on a short written reconciliation plan for the United States and Russia, which Dmitriev implied had been cleared through Putin. The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V.",
+            "object_span": [
+                255,
+                322
+            ],
+            "context_span": [
+                11737,
+                12536
+            ]
+        },
+        {
+            "subject": "Obama",
+            "object": "imposed sanctions on Russia",
+            "confidence": 0.7829,
+            "context": "The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\"",
+            "object_span": [
+                196,
+                223
+            ],
+            "context_span": [
+                11908,
+                12545
+            ]
+        },
+        {
+            "subject": "Michael Flynn",
+            "object": "called Russian Ambassador Sergey Kislyak",
+            "confidence": 0.5985,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                159,
+                199
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Kislyak",
+            "object": "called Flynn",
+            "confidence": 0.7412,
+            "context": "Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin). \" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request. On January 6, 2017, members of the intelligence community briefed President-Elect Trump on a joint assessment\u2014drafted and coordinated among the Central Intelligence Agency, FBI, and National Security Agency\u2014that concluded with high confidence that Russia had intervened in the election through a variety of means to assist Trump\u2019s candidacy and harm Clinton\u2019s. A declassified version of the assessment was publicly released that same day.",
+            "object_span": [
+                126,
+                138
+            ],
+            "context_span": [
+                12465,
+                13180
+            ]
+        },
+        {
+            "subject": "Flynn",
+            "object": "called Russian Ambassador Sergey Kislyak",
+            "confidence": 0.6905,
+            "context": "The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\"",
+            "object_span": [
+                312,
+                352
+            ],
+            "context_span": [
+                11908,
+                12545
+            ]
+        },
+        {
+            "subject": "Flynn",
+            "object": "lying about his interactions with Russian Ambassador Kislyak",
+            "confidence": 0.5763,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                241,
+                301
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        },
+        {
+            "subject": "James Comey",
+            "object": "confirmed to Congress the existence of the FBI \u2019 s investigation into Russian interference",
+            "confidence": 0.7398,
+            "context": "A declassified version of the assessment was publicly released that same day. Between mid-January 2017 and early February 2017, three congressional committees\u2014the House Permanent Select Committee on Intelligence (HPSCI), the Senate Select Committee on Intelligence (SSCI), and the Senate Judiciary Committee (SJC)\u2014announced that they would conduct inquiries, or had already been conducting inquiries, into Russian interference in the election. Then-FBI Director James Comey later confirmed to Congress the existence of the FBI\u2019s investigation into Russian interference that had begun before the election.",
+            "object_span": [
+                480,
+                568
+            ],
+            "context_span": [
+                13103,
+                13708
+            ]
+        },
+        {
+            "subject": "Comey",
+            "object": "confirmed to Congress the existence of the FBI \u2019 s investigation into Russian interference",
+            "confidence": 0.798,
+            "context": "A declassified version of the assessment was publicly released that same day. Between mid-January 2017 and early February 2017, three congressional committees\u2014the House Permanent Select Committee on Intelligence (HPSCI), the Senate Select Committee on Intelligence (SSCI), and the Senate Judiciary Committee (SJC)\u2014announced that they would conduct inquiries, or had already been conducting inquiries, into Russian interference in the election. Then-FBI Director James Comey later confirmed to Congress the existence of the FBI\u2019s investigation into Russian interference that had begun before the election.",
+            "object_span": [
+                480,
+                568
+            ],
+            "context_span": [
+                13103,
+                13708
+            ]
+        },
+        {
+            "subject": "Comey",
+            "object": "counterintelligence",
+            "confidence": 0.4808,
+            "context": "On March 20, 2017, in open-session testimony before HPSCI, Comey stated:\n\n\"I have been authorized by the Department of Justice to confirm that the FBI, as part of our counterintelligence mission, is investigating the Russian government\u2019s efforts to interfere in the 2016 presidential election, and that includes investigating the nature of any links between individuals associated with the Trump campaign and the Russian government and whether there was any coordination between the campaign and Russia\u2019s efforts. . . . As with any counterintelligence investigation, this will also include an assessment of whether any crimes were committed.\" The investigation continued under then-Director Comey for the next seven weeks until May 9, 2017, when President Trump fired Comey as FBI Director\u2014an action ",
+            "object_span": [
+                167,
+                186
+            ],
+            "context_span": [
+                13709,
+                14509
+            ]
+        },
+        {
+            "subject": "Comey",
+            "object": "interfere with or obstruct the investigation",
+            "confidence": 0.5755,
+            "context": "On May 17, 2017, Acting Attorney General Rod Rosenstein appointed the Special Counsel and authorized him to conduct the investigation that Comey had confirmed in his congressional testimony, as well as matters arising directly from the investigation, and any other matters within the scope of 28 C.F.R. \u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment.",
+            "object_span": [
+                349,
+                393
+            ],
+            "context_span": [
+                14557,
+                15025
+            ]
+        },
+        {
+            "subject": "Rod Rosenstein",
+            "object": "appointed the Special Counsel",
+            "confidence": 0.5518,
+            "context": "The investigation continued under then-Director Comey for the next seven weeks until May 9, 2017, when President Trump fired Comey as FBI Director\u2014an action which is analyzed in Volume II of the report. On May 17, 2017, Acting Attorney General Rod Rosenstein appointed the Special Counsel and authorized him to conduct the investigation that Comey had confirmed in his congressional testimony, as well as matters arising directly from the investigation, and any other matters within the scope of 28 C.F.R. \u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment.",
+            "object_span": [
+                259,
+                288
+            ],
+            "context_span": [
+                14353,
+                15025
+            ]
+        },
+        {
+            "subject": "Special Counsel",
+            "object": "efforts to interfere with or obstruct the investigation",
+            "confidence": 0.7574,
+            "context": "The investigation continued under then-Director Comey for the next seven weeks until May 9, 2017, when President Trump fired Comey as FBI Director\u2014an action which is analyzed in Volume II of the report. On May 17, 2017, Acting Attorney General Rod Rosenstein appointed the Special Counsel and authorized him to conduct the investigation that Comey had confirmed in his congressional testimony, as well as matters arising directly from the investigation, and any other matters within the scope of 28 C.F.R. \u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation.",
+            "object_span": [
+                541,
+                596
+            ],
+            "context_span": [
+                14353,
+                14951
+            ]
+        }
+    ],
+    "affiliation": [
+        {
+            "subject": "Yevgeniy Prigozhin",
+            "object": "Russian oligarch",
+            "confidence": 0.8327,
+            "context": "The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled. Prigozhin is widely reported to have ties to Russian President Vladimir Putin. In mid-2014, the IRA sent employees to the United States on an intelligence-gathering mission with instructions. The IRA later used social media accounts and interest groups to sow discord in the U.S. political system through what it termed \"information warfare.\" The campaign evolved from a generalized program designed in 2014 and 2015 to undermine the U.S. electoral system, to a targeted operation that by early 2016 favored candidate Trump and disparaged candidate Clinton.",
+            "object_span": [
+                71,
+                87
+            ],
+            "context_span": [
+                233,
+                928
+            ]
+        },
+        {
+            "subject": "Prigozhin",
+            "object": "Russian oligarch",
+            "confidence": 0.7751,
+            "context": "The Internet Research Agency (IRA) carried out the earliest Russian interference operations identified by the investigation \u2014 a social media campaign designed to provoke and amplify political and social discord in the United States. The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled.",
+            "object_span": [
+                304,
+                320
+            ],
+            "context_span": [
+                0,
+                368
+            ]
+        },
+        {
+            "subject": "Vladimir Putin",
+            "object": "Russian President",
+            "confidence": 0.7984,
+            "context": "The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled. Prigozhin is widely reported to have ties to Russian President Vladimir Putin. In mid-2014, the IRA sent employees to the United States on an intelligence-gathering mission with instructions. The IRA later used social media accounts and interest groups to sow discord in the U.S. political system through what it termed \"information warfare.\" The campaign evolved from a generalized program designed in 2014 and 2015 to undermine the U.S. electoral system, to a targeted operation that by early 2016 favored candidate Trump and disparaged candidate Clinton.",
+            "object_span": [
+                181,
+                198
+            ],
+            "context_span": [
+                233,
+                928
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "Republican nominee for President",
+            "confidence": 0.5913,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President.",
+            "object_span": [
+                122,
+                154
+            ],
+            "context_span": [
+                6392,
+                6548
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "presumptive Republican nominee for President",
+            "confidence": 0.5914,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\"",
+            "object_span": [
+                110,
+                154
+            ],
+            "context_span": [
+                6393,
+                6839
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "President-Elect",
+            "confidence": 0.7393,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                416,
+                431
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "President",
+            "confidence": 0.7136,
+            "context": "\u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment. He told advisors that it was the end of his presidency, sought to have Attorney General Jefferson (Jeff) Sessions unrecuse from the Russia investigation and to have the Special Counsel removed, and engaged in efforts to curtail the Special Counsel\u2019s investigation and prevent the disclosure of evidence to it, including through public and private contacts with potential witnesses. Those and related actions are described and analyzed in Volume II of the report.",
+            "object_span": [
+                92,
+                101
+            ],
+            "context_span": [
+                14860,
+                15488
+            ]
+        },
+        {
+            "subject": "Donald J. Trump",
+            "object": "The presidential campaign",
+            "confidence": 0.6207,
+            "context": "The GRU later released additional materials through the organization WikiLeaks. The presidential campaign of Donald J. Trump (\"Trump Campaign\" or \"Campaign\") showed interest in WikiLeaks\u2019s releases of documents and welcomed their potential to damage candidate Clinton. Beginning in June 2016, forecast to senior Campaign officials that WikiLeaks would release information damaging to candidate Clinton. WikiLeaks\u2019s first release came in July 2016. Around the same time, candidate Trump announced that he hoped Russia would recover emails described as missing from a private server used by Clinton when she was Secretary of State (he later said that he was speaking sarcastically).",
+            "object_span": [
+                80,
+                105
+            ],
+            "context_span": [
+                2580,
+                3262
+            ]
+        },
+        {
+            "subject": "Donald Trump Jr",
+            "object": "senior Trump Campaign officials",
+            "confidence": 0.6214,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information.",
+            "object_span": [
+                212,
+                243
+            ],
+            "context_span": [
+                6393,
+                7193
+            ]
+        },
+        {
+            "subject": "Trump Jr",
+            "object": "Donald",
+            "confidence": 0.5101,
+            "context": "Throughout that period of time and for several months thereafter, Papadopoulos worked with Mifsud and two Russian nationals to arrange a meeting between the Campaign and the Russian government. No meeting took place. Summer 2016. Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\"",
+            "object_span": [
+                474,
+                480
+            ],
+            "context_span": [
+                6162,
+                6839
+            ]
+        },
+        {
+            "subject": "Trump Jr",
+            "object": "senior Trump Campaign officials",
+            "confidence": 0.6624,
+            "context": "On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary. \" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information.",
+            "object_span": [
+                56,
+                87
+            ],
+            "context_span": [
+                6549,
+                7193
+            ]
+        },
+        {
+            "subject": "Elect Trump",
+            "object": "President",
+            "confidence": 0.5692,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                416,
+                425
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Clinton",
+            "object": "Secretary of State",
+            "confidence": 0.6945,
+            "context": "Around the same time, candidate Trump announced that he hoped Russia would recover emails described as missing from a private server used by Clinton when she was Secretary of State (he later said that he was speaking sarcastically). Wikileaks began releasing Podesta\u2019s stolen emails on October 7, 2016, less than one hour after a U.S. media outlet released video considered damaging to candidate Trump.",
+            "object_span": [
+                162,
+                180
+            ],
+            "context_span": [
+                3029,
+                3432
+            ]
+        },
+        {
+            "subject": "Clinton",
+            "object": "Hillary",
+            "confidence": 0.6091,
+            "context": "Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails.",
+            "object_span": [
+                712,
+                719
+            ],
+            "context_span": [
+                5096,
+                5860
+            ]
+        },
+        {
+            "subject": "John Podesta",
+            "object": "campaign chairman",
+            "confidence": 0.7905,
+            "context": "The Russian intelligence service known as the Main Intelligence Directorate of the General Staff of the Russian Army (GRU) carried out these operations. In March 2016, the GRU began hacking the email accounts of Clinton Campaign volunteers and employees, including campaign chairman John Podesta. In April 2016, the GRU hacked into the computer networks of the Democratic Congressional Campaign Committee (DCCC) and the Democratic National Committee (DNC). The GRU stole hundreds of thousands of documents from the compromised email accounts and networks. Around the time that the DNC announced in mid-June 2016 the Russian government\u2019s role in hacking its network, the GRU began disseminating stolen materials through the fictitious online personas \"DCLeaks\" and \"Guccifer 2.0.\"",
+            "object_span": [
+                265,
+                282
+            ],
+            "context_span": [
+                1799,
+                2579
+            ]
+        },
+        {
+            "subject": "Podesta",
+            "object": "campaign chairman",
+            "confidence": 0.7553,
+            "context": "The Russian intelligence service known as the Main Intelligence Directorate of the General Staff of the Russian Army (GRU) carried out these operations. In March 2016, the GRU began hacking the email accounts of Clinton Campaign volunteers and employees, including campaign chairman John Podesta. In April 2016, the GRU hacked into the computer networks of the Democratic Congressional Campaign Committee (DCCC) and the Democratic National Committee (DNC). The GRU stole hundreds of thousands of documents from the compromised email accounts and networks. Around the time that the DNC announced in mid-June 2016 the Russian government\u2019s role in hacking its network, the GRU began disseminating stolen materials through the fictitious online personas \"DCLeaks\" and \"Guccifer 2.0.\"",
+            "object_span": [
+                265,
+                282
+            ],
+            "context_span": [
+                1799,
+                2579
+            ]
+        },
+        {
+            "subject": "Putin",
+            "object": "Russian President",
+            "confidence": 0.7862,
+            "context": "The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled. Prigozhin is widely reported to have ties to Russian President Vladimir Putin. In mid-2014, the IRA sent employees to the United States on an intelligence-gathering mission with instructions. The IRA later used social media accounts and interest groups to sow discord in the U.S. political system through what it termed \"information warfare.\" The campaign evolved from a generalized program designed in 2014 and 2015 to undermine the U.S. electoral system, to a targeted operation that by early 2016 favored candidate Trump and disparaged candidate Clinton.",
+            "object_span": [
+                181,
+                198
+            ],
+            "context_span": [
+                233,
+                928
+            ]
+        },
+        {
+            "subject": "Putin",
+            "object": "President",
+            "confidence": 0.728,
+            "context": "The most senior levels of the Russian government encouraged these efforts. The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations.",
+            "object_span": [
+                196,
+                205
+            ],
+            "context_span": [
+                10865,
+                11577
+            ]
+        },
+        {
+            "subject": "Michael Cohen",
+            "object": "Trump Organization executive",
+            "confidence": 0.8107,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                242,
+                270
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Michael Cohen",
+            "object": "Former Trump Organization attorney",
+            "confidence": 0.8438,
+            "context": "George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project. And in February 2019, the U.S. District Court for the District of Columbia found that Manafort lied to the Office and the grand jury concerning his interactions and communications with Konstantin Kilimnik about Trump Campaign polling data and a peace plan for Ukraine.",
+            "object_span": [
+                316,
+                350
+            ],
+            "context_span": [
+                18596,
+                19315
+            ]
+        },
+        {
+            "subject": "Dmitry Peskov",
+            "object": "Russian government press secretary",
+            "confidence": 0.8119,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                340,
+                374
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Cohen",
+            "object": "Trump Organization executive",
+            "confidence": 0.7882,
+            "context": "Section IV of this Report details the contacts between Russia and the Trump Campaign during the campaign and transition periods, the most salient of which are summarized below in chronological order\n\n\n\n\n2015. Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov.",
+            "object_span": [
+                451,
+                479
+            ],
+            "context_span": [
+                4748,
+                5346
+            ]
+        },
+        {
+            "subject": "Cohen",
+            "object": "Former Trump Organization attorney",
+            "confidence": 0.8355,
+            "context": "George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project. And in February 2019, the U.S. District Court for the District of Columbia found that Manafort lied to the Office and the grand jury concerning his interactions and communications with Konstantin Kilimnik about Trump Campaign polling data and a peace plan for Ukraine.",
+            "object_span": [
+                316,
+                350
+            ],
+            "context_span": [
+                18596,
+                19315
+            ]
+        },
+        {
+            "subject": "George Papadopoulos",
+            "object": "Campaign foreign policy advisor",
+            "confidence": 0.7248,
+            "context": "Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton.",
+            "object_span": [
+                13,
+                44
+            ],
+            "context_span": [
+                5491,
+                6161
+            ]
+        },
+        {
+            "subject": "George Papadopoulos",
+            "object": "a foreign policy advisor",
+            "confidence": 0.7461,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                353,
+                377
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        },
+        {
+            "subject": "Joseph Mifsud",
+            "object": "a London-based professor",
+            "confidence": 0.77,
+            "context": "Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton.",
+            "object_span": [
+                104,
+                128
+            ],
+            "context_span": [
+                5491,
+                6161
+            ]
+        },
+        {
+            "subject": "Joseph Mifsud",
+            "object": "the professor",
+            "confidence": 0.4973,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                528,
+                541
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        },
+        {
+            "subject": "Mifsud",
+            "object": "a London-based professor",
+            "confidence": 0.789,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                637,
+                661
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Mifsud",
+            "object": "professor",
+            "confidence": 0.5029,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                532,
+                541
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        },
+        {
+            "subject": "Papadopoulos",
+            "object": "Campaign foreign policy advisor",
+            "confidence": 0.7589,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                546,
+                577
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Papadopoulos",
+            "object": "a foreign policy advisor",
+            "confidence": 0.7477,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                353,
+                377
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        },
+        {
+            "subject": "Jared Kushner",
+            "object": "senior Trump Campaign officials",
+            "confidence": 0.5706,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr. , Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information",
+            "object_span": [
+                212,
+                243
+            ],
+            "context_span": [
+                6393,
+                7193
+            ]
+        },
+        {
+            "subject": "Paul Manafort",
+            "object": "campaign chairman",
+            "confidence": 0.789,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr. , Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information",
+            "object_span": [
+                282,
+                299
+            ],
+            "context_span": [
+                6393,
+                7193
+            ]
+        },
+        {
+            "subject": "Paul Manafort",
+            "object": "Trump campaign chairman",
+            "confidence": 0.7985,
+            "context": "On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence. Kilimnik requested the meeting to deliver in person a peace plan for Ukraine that Manafort acknowledged to the Special Counsel\u2019s Office was a \"backdoor\" way for Russia to control part of eastern Ukraine; both men believed the plan would require candidate Trump\u2019s assent to succeed (were he to be elected President).",
+            "object_span": [
+                235,
+                258
+            ],
+            "context_span": [
+                8658,
+                9386
+            ]
+        },
+        {
+            "subject": "Hillary",
+            "object": "Clinton",
+            "confidence": 0.5666,
+            "context": "Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton.",
+            "object_span": [
+                326,
+                333
+            ],
+            "context_span": [
+                5491,
+                6161
+            ]
+        },
+        {
+            "subject": "Carter Page",
+            "object": "Campaign foreign policy advisor",
+            "confidence": 0.7928,
+            "context": "Days after the June 9 meeting, on June 14, 2016, a cybersecurity firm and the DNC announced that Russian government hackers had infiltrated the DNC and obtained access to opposition research on candidate Trump, among other documents. In July 2016, Campaign foreign policy advisor Carter Page traveled in his personal capacity to Moscow and gave the keynote address at the New Economic School. Page had lived and worked in Russia between 2003 and 2007. After returning to the United States, Page became acquainted with at least two Russian intelligence officers, one of whom was later charged in 2015 with conspiracy to act as an unregistered agent of Russia. Page\u2019s July 2016 trip to Moscow and his advocacy for pro-Russian foreign policy drew media attention.",
+            "object_span": [
+                248,
+                279
+            ],
+            "context_span": [
+                7195,
+                7956
+            ]
+        },
+        {
+            "subject": "Page",
+            "object": "Campaign foreign policy advisor",
+            "confidence": 0.7246,
+            "context": "The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information. Days after the June 9 meeting, on June 14, 2016, a cybersecurity firm and the DNC announced that Russian government hackers had infiltrated the DNC and obtained access to opposition research on candidate Trump, among other documents. In July 2016, Campaign foreign policy advisor Carter Page traveled in his personal capacity to Moscow and gave the keynote address at the New Economic School.",
+            "object_span": [
+                602,
+                633
+            ],
+            "context_span": [
+                6840,
+                7588
+            ]
+        },
+        {
+            "subject": "Konstantin Kilimnik",
+            "object": "long-time business associate",
+            "confidence": 0.4913,
+            "context": "On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence. Kilimnik requested the meeting to deliver in person a peace plan for Ukraine that Manafort acknowledged to the Special Counsel\u2019s Office was a \"backdoor\" way for Russia to control part of eastern Ukraine; both men believed the plan would require candidate Trump\u2019s assent to succeed (were he to be elected President).",
+            "object_span": [
+                303,
+                331
+            ],
+            "context_span": [
+                8658,
+                9386
+            ]
+        },
+        {
+            "subject": "Kilimnik",
+            "object": "long-time business associate",
+            "confidence": 0.3652,
+            "context": "Within days, there was public reporting that U.S. intelligence agencies had \"high confidence\" that the Russian government was behind the theft of emails and documents from the DNC. And within a week of the release, a foreign government informed the FBI about its May 2016 interaction with Papadopoulos and his statement that the Russian government could assist the Trump Campaign. On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence.",
+            "object_span": [
+                684,
+                712
+            ],
+            "context_span": [
+                8277,
+                9070
+            ]
+        },
+        {
+            "subject": "Kilimnik",
+            "object": "Konstantin",
+            "confidence": 0.425,
+            "context": "And in February 2019, the U.S. District Court for the District of Columbia found that Manafort lied to the Office and the grand jury concerning his interactions and communications with Konstantin Kilimnik about Trump Campaign polling data and a peace plan for Ukraine. The Office investigated several other events that have been publicly reported to involve potential Russia-related contacts. For example, the investigation established that interactions between Russian Ambassador Kislyak and Trump Campaign officials both at the candidate\u2019s April 2016 foreign policy speech in Washington, D.C., and during the week of the Republican National Convention were brief, public, and non-substantive.",
+            "object_span": [
+                185,
+                195
+            ],
+            "context_span": [
+                19047,
+                19746
+            ]
+        },
+        {
+            "subject": "Manafort",
+            "object": "campaign chairman",
+            "confidence": 0.7074,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr. , Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information",
+            "object_span": [
+                282,
+                299
+            ],
+            "context_span": [
+                6393,
+                7193
+            ]
+        },
+        {
+            "subject": "Manafort",
+            "object": "Trump campaign chairman",
+            "confidence": 0.8069,
+            "context": "Within days, there was public reporting that U.S. intelligence agencies had \"high confidence\" that the Russian government was behind the theft of emails and documents from the DNC. And within a week of the release, a foreign government informed the FBI about its May 2016 interaction with Papadopoulos and his statement that the Russian government could assist the Trump Campaign. On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence.",
+            "object_span": [
+                616,
+                639
+            ],
+            "context_span": [
+                8277,
+                9070
+            ]
+        },
+        {
+            "subject": "Kirill Dmitriev",
+            "object": "the chief executive officer of Russia \u2019 s sovereign wealth fund",
+            "confidence": 0.8182,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there Kirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                215,
+                276
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Dmitriev",
+            "object": "chief executive officer of Russia \u2019 s sovereign wealth fund",
+            "confidence": 0.7869,
+            "context": "Post-2016 Election. Immediately after the November 8 election, Russian government officials and prominent Russian businessmen began trying to make inroads into the new administration. The most senior levels of the Russian government encouraged these efforts. The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there Kirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration.",
+            "object_span": [
+                478,
+                535
+            ],
+            "context_span": [
+                10681,
+                11301
+            ]
+        },
+        {
+            "subject": "Dmitriev",
+            "object": "the chief executive officer of Russia \u2019 s sovereign wealth fund",
+            "confidence": 0.7886,
+            "context": "Those \"thefts\" and the \"disclosures\" of the hacked materials through online platforms such as WikiLeaks, the statement continued, \"are intended to interfere with the US election process.\" Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon.",
+            "object_span": [
+                266,
+                327
+            ],
+            "context_span": [
+                10492,
+                11292
+            ]
+        },
+        {
+            "subject": "Erik Prince",
+            "object": "a supporter of the Trump Campaign",
+            "confidence": 0.7897,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                435,
+                468
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Steve Bannon",
+            "object": "senior Trump advisor",
+            "confidence": 0.8099,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                489,
+                509
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Prince",
+            "object": "a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon",
+            "confidence": 0.7764,
+            "context": "Post-2016 Election. Immediately after the November 8 election, Russian government officials and prominent Russian businessmen began trying to make inroads into the new administration. The most senior levels of the Russian government encouraged these efforts. The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon.",
+            "object_span": [
+                694,
+                781
+            ],
+            "context_span": [
+                10681,
+                11463
+            ]
+        },
+        {
+            "subject": "Kushner",
+            "object": "Jared",
+            "confidence": 0.4906,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                724,
+                729
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Bannon",
+            "object": "senior Trump advisor",
+            "confidence": 0.7742,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                489,
+                509
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Rex Tillerson",
+            "object": "Secretary of State",
+            "confidence": 0.7986,
+            "context": "Dmitriev and Kushner\u2019s friend collaborated on a short written reconciliation plan for the United States and Russia, which Dmitriev implied had been cleared through Putin. The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V.",
+            "object_span": [
+                290,
+                308
+            ],
+            "context_span": [
+                11737,
+                12536
+            ]
+        },
+        {
+            "subject": "Michael Flynn",
+            "object": "National Security Advisor",
+            "confidence": 0.7899,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                119,
+                144
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Michael Flynn",
+            "object": "Former National Security Advisor",
+            "confidence": 0.8273,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                176,
+                208
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        },
+        {
+            "subject": "Sergey Kislyak",
+            "object": "Russian Ambassador",
+            "confidence": 0.7431,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                166,
+                184
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Kislyak",
+            "object": "Russian Ambassador Sergey",
+            "confidence": 0.6354,
+            "context": "The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\"",
+            "object_span": [
+                319,
+                344
+            ],
+            "context_span": [
+                11908,
+                12545
+            ]
+        },
+        {
+            "subject": "Kislyak",
+            "object": "Russian Ambassador",
+            "confidence": 0.8044,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                275,
+                293
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        },
+        {
+            "subject": "Flynn",
+            "object": "National Security Advisor",
+            "confidence": 0.7369,
+            "context": "The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\"",
+            "object_span": [
+                272,
+                297
+            ],
+            "context_span": [
+                11908,
+                12545
+            ]
+        },
+        {
+            "subject": "Flynn",
+            "object": "Former National Security Advisor",
+            "confidence": 0.8143,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                176,
+                208
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        },
+        {
+            "subject": "James Comey",
+            "object": "FBI Director",
+            "confidence": 0.7625,
+            "context": "A declassified version of the assessment was publicly released that same day. Between mid-January 2017 and early February 2017, three congressional committees\u2014the House Permanent Select Committee on Intelligence (HPSCI), the Senate Select Committee on Intelligence (SSCI), and the Senate Judiciary Committee (SJC)\u2014announced that they would conduct inquiries, or had already been conducting inquiries, into Russian interference in the election. Then-FBI Director James Comey later confirmed to Congress the existence of the FBI\u2019s investigation into Russian interference that had begun before the election.",
+            "object_span": [
+                449,
+                461
+            ],
+            "context_span": [
+                13103,
+                13708
+            ]
+        },
+        {
+            "subject": "Comey",
+            "object": "FBI Director",
+            "confidence": 0.783,
+            "context": "A declassified version of the assessment was publicly released that same day. Between mid-January 2017 and early February 2017, three congressional committees\u2014the House Permanent Select Committee on Intelligence (HPSCI), the Senate Select Committee on Intelligence (SSCI), and the Senate Judiciary Committee (SJC)\u2014announced that they would conduct inquiries, or had already been conducting inquiries, into Russian interference in the election. Then-FBI Director James Comey later confirmed to Congress the existence of the FBI\u2019s investigation into Russian interference that had begun before the election.",
+            "object_span": [
+                449,
+                461
+            ],
+            "context_span": [
+                13103,
+                13708
+            ]
+        },
+        {
+            "subject": "Rod Rosenstein",
+            "object": "Acting Attorney General",
+            "confidence": 0.7985,
+            "context": "The investigation continued under then-Director Comey for the next seven weeks until May 9, 2017, when President Trump fired Comey as FBI Director\u2014an action which is analyzed in Volume II of the report. On May 17, 2017, Acting Attorney General Rod Rosenstein appointed the Special Counsel and authorized him to conduct the investigation that Comey had confirmed in his congressional testimony, as well as matters arising directly from the investigation, and any other matters within the scope of 28 C.F.R. \u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment.",
+            "object_span": [
+                220,
+                243
+            ],
+            "context_span": [
+                14353,
+                15025
+            ]
+        },
+        {
+            "subject": "Jefferson (Jeff) Sessions",
+            "object": "Attorney General",
+            "confidence": 0.8019,
+            "context": "\u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment. He told advisors that it was the end of his presidency, sought to have Attorney General Jefferson (Jeff) Sessions unrecuse from the Russia investigation and to have the Special Counsel removed, and engaged in efforts to curtail the Special Counsel\u2019s investigation and prevent the disclosure of evidence to it, including through public and private contacts with potential witnesses. Those and related actions are described and analyzed in Volume II of the report.",
+            "object_span": [
+                236,
+                252
+            ],
+            "context_span": [
+                14860,
+                15488
+            ]
+        },
+        {
+            "subject": "Sessions",
+            "object": "Attorney General",
+            "confidence": 0.757,
+            "context": "\u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment. He told advisors that it was the end of his presidency, sought to have Attorney General Jefferson (Jeff) Sessions unrecuse from the Russia investigation and to have the Special Counsel removed, and engaged in efforts to curtail the Special Counsel\u2019s investigation and prevent the disclosure of evidence to it, including through public and private contacts with potential witnesses. Those and related actions are described and analyzed in Volume II of the report.",
+            "object_span": [
+                236,
+                252
+            ],
+            "context_span": [
+                14860,
+                15488
+            ]
+        },
+        {
+            "subject": "Sessions",
+            "object": "Senate",
+            "confidence": 0.6204,
+            "context": "And the investigation did not establish that one Campaign official\u2019s efforts to dilute a portion of the Republican Party platform on providing assistance to Ukraine were undertaken at the behest of candidate Trump or Russia. The investigation also did not establish that a meeting between Kislyak and Sessions in September 2016 at Sessions\u2019s Senate office included any more than a passing mention of the presidential campaign. The investigation did not always yield admissible information or testimony, or a complete picture of the activities undertaken by subjects of the investigation. Some individuals invoked their Fifth Amendment right against compelled self-incrimination and were not, in the Office\u2019s judgment, appropriate candidates for grants of immunity.",
+            "object_span": [
+                342,
+                348
+            ],
+            "context_span": [
+                19747,
+                20512
+            ]
+        }
+    ],
+    "creator_of": [],
+    "employer": [
+        {
+            "subject": "John Podesta",
+            "object": "Clinton Campaign",
+            "confidence": 0.7614,
+            "context": "The Russian intelligence service known as the Main Intelligence Directorate of the General Staff of the Russian Army (GRU) carried out these operations. In March 2016, the GRU began hacking the email accounts of Clinton Campaign volunteers and employees, including campaign chairman John Podesta. In April 2016, the GRU hacked into the computer networks of the Democratic Congressional Campaign Committee (DCCC) and the Democratic National Committee (DNC). The GRU stole hundreds of thousands of documents from the compromised email accounts and networks. Around the time that the DNC announced in mid-June 2016 the Russian government\u2019s role in hacking its network, the GRU began disseminating stolen materials through the fictitious online personas \"DCLeaks\" and \"Guccifer 2.0.\"",
+            "object_span": [
+                212,
+                228
+            ],
+            "context_span": [
+                1799,
+                2579
+            ]
+        },
+        {
+            "subject": "Podesta",
+            "object": "Clinton Campaign",
+            "confidence": 0.7425,
+            "context": "The Russian intelligence service known as the Main Intelligence Directorate of the General Staff of the Russian Army (GRU) carried out these operations. In March 2016, the GRU began hacking the email accounts of Clinton Campaign volunteers and employees, including campaign chairman John Podesta. In April 2016, the GRU hacked into the computer networks of the Democratic Congressional Campaign Committee (DCCC) and the Democratic National Committee (DNC). The GRU stole hundreds of thousands of documents from the compromised email accounts and networks. Around the time that the DNC announced in mid-June 2016 the Russian government\u2019s role in hacking its network, the GRU began disseminating stolen materials through the fictitious online personas \"DCLeaks\" and \"Guccifer 2.0.\"",
+            "object_span": [
+                212,
+                228
+            ],
+            "context_span": [
+                1799,
+                2579
+            ]
+        },
+        {
+            "subject": "George Papadopoulos",
+            "object": "the Trump Campaign",
+            "confidence": 0.6396,
+            "context": "Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton.",
+            "object_span": [
+                489,
+                507
+            ],
+            "context_span": [
+                5491,
+                6161
+            ]
+        },
+        {
+            "subject": "Paul Manafort",
+            "object": "Trump Campaign",
+            "confidence": 0.6476,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr. , Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information",
+            "object_span": [
+                24,
+                38
+            ],
+            "context_span": [
+                6393,
+                7193
+            ]
+        },
+        {
+            "subject": "Kirill Dmitriev",
+            "object": "Russia \u2019 s sovereign wealth fund",
+            "confidence": 0.8585,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there Kirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                246,
+                276
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Dmitriev",
+            "object": "Russia \u2019 s sovereign wealth fund",
+            "confidence": 0.8456,
+            "context": "Post-2016 Election. Immediately after the November 8 election, Russian government officials and prominent Russian businessmen began trying to make inroads into the new administration. The most senior levels of the Russian government encouraged these efforts. The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there Kirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration.",
+            "object_span": [
+                505,
+                535
+            ],
+            "context_span": [
+                10681,
+                11301
+            ]
+        },
+        {
+            "subject": "James Comey",
+            "object": "FBI",
+            "confidence": 0.7087,
+            "context": "A declassified version of the assessment was publicly released that same day. Between mid-January 2017 and early February 2017, three congressional committees\u2014the House Permanent Select Committee on Intelligence (HPSCI), the Senate Select Committee on Intelligence (SSCI), and the Senate Judiciary Committee (SJC)\u2014announced that they would conduct inquiries, or had already been conducting inquiries, into Russian interference in the election. Then-FBI Director James Comey later confirmed to Congress the existence of the FBI\u2019s investigation into Russian interference that had begun before the election.",
+            "object_span": [
+                449,
+                452
+            ],
+            "context_span": [
+                13103,
+                13708
+            ]
+        },
+        {
+            "subject": "Comey",
+            "object": "FBI",
+            "confidence": 0.7183,
+            "context": "A declassified version of the assessment was publicly released that same day. Between mid-January 2017 and early February 2017, three congressional committees\u2014the House Permanent Select Committee on Intelligence (HPSCI), the Senate Select Committee on Intelligence (SSCI), and the Senate Judiciary Committee (SJC)\u2014announced that they would conduct inquiries, or had already been conducting inquiries, into Russian interference in the election. Then-FBI Director James Comey later confirmed to Congress the existence of the FBI\u2019s investigation into Russian interference that had begun before the election.",
+            "object_span": [
+                449,
+                452
+            ],
+            "context_span": [
+                13103,
+                13708
+            ]
+        }
+    ],
+    "member_of": [
+        {
+            "subject": "Trump",
+            "object": "Trump Organization",
+            "confidence": 0.7456,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov.",
+            "object_span": [
+                61,
+                79
+            ],
+            "context_span": [
+                4957,
+                5346
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "Republican",
+            "confidence": 0.6267,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President.",
+            "object_span": [
+                122,
+                132
+            ],
+            "context_span": [
+                6392,
+                6548
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "Trump Campaign",
+            "confidence": 0.7016,
+            "context": "On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary. \" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr.",
+            "object_span": [
+                63,
+                77
+            ],
+            "context_span": [
+                6549,
+                6935
+            ]
+        },
+        {
+            "subject": "Donald Trump Jr",
+            "object": "Trump Campaign",
+            "confidence": 0.636,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information.",
+            "object_span": [
+                219,
+                233
+            ],
+            "context_span": [
+                6393,
+                7193
+            ]
+        },
+        {
+            "subject": "Trump Jr",
+            "object": "Trump Campaign",
+            "confidence": 0.7762,
+            "context": "Throughout that period of time and for several months thereafter, Papadopoulos worked with Mifsud and two Russian nationals to arrange a meeting between the Campaign and the Russian government. No meeting took place. Summer 2016. Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\"",
+            "object_span": [
+                449,
+                463
+            ],
+            "context_span": [
+                6162,
+                6839
+            ]
+        },
+        {
+            "subject": "Michael Cohen",
+            "object": "Trump Organization",
+            "confidence": 0.8069,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                242,
+                260
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Dmitry Peskov",
+            "object": "Russian government",
+            "confidence": 0.7096,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                340,
+                358
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Cohen",
+            "object": "Trump Organization",
+            "confidence": 0.8197,
+            "context": "Section IV of this Report details the contacts between Russia and the Trump Campaign during the campaign and transition periods, the most salient of which are summarized below in chronological order\n\n\n\n\n2015. Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov.",
+            "object_span": [
+                451,
+                469
+            ],
+            "context_span": [
+                4748,
+                5346
+            ]
+        },
+        {
+            "subject": "Papadopoulos",
+            "object": "Trump Campaign",
+            "confidence": 0.5971,
+            "context": "Section IV of this Report details the contacts between Russia and the Trump Campaign during the campaign and transition periods, the most salient of which are summarized below in chronological order\n\n\n\n\n2015. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails.",
+            "object_span": [
+                70,
+                84
+            ],
+            "context_span": [
+                4748,
+                5548
+            ]
+        },
+        {
+            "subject": "Jared Kushner",
+            "object": "Trump Campaign",
+            "confidence": 0.5833,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr. , Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information",
+            "object_span": [
+                219,
+                233
+            ],
+            "context_span": [
+                6393,
+                7193
+            ]
+        },
+        {
+            "subject": "Paul Manafort",
+            "object": "Trump campaign",
+            "confidence": 0.7387,
+            "context": "On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence. Kilimnik requested the meeting to deliver in person a peace plan for Ukraine that Manafort acknowledged to the Special Counsel\u2019s Office was a \"backdoor\" way for Russia to control part of eastern Ukraine; both men believed the plan would require candidate Trump\u2019s assent to succeed (were he to be elected President).",
+            "object_span": [
+                235,
+                249
+            ],
+            "context_span": [
+                8658,
+                9386
+            ]
+        },
+        {
+            "subject": "Manafort",
+            "object": "Trump campaign",
+            "confidence": 0.6431,
+            "context": "Within days, there was public reporting that U.S. intelligence agencies had \"high confidence\" that the Russian government was behind the theft of emails and documents from the DNC. And within a week of the release, a foreign government informed the FBI about its May 2016 interaction with Papadopoulos and his statement that the Russian government could assist the Trump Campaign. On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence.",
+            "object_span": [
+                616,
+                630
+            ],
+            "context_span": [
+                8277,
+                9070
+            ]
+        },
+        {
+            "subject": "Erik Prince",
+            "object": "the Trump Campaign",
+            "confidence": 0.7411,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                450,
+                468
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Prince",
+            "object": "supporter of the Trump Campaign",
+            "confidence": 0.6668,
+            "context": "Post-2016 Election. Immediately after the November 8 election, Russian government officials and prominent Russian businessmen began trying to make inroads into the new administration. The most senior levels of the Russian government encouraged these efforts. The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon.",
+            "object_span": [
+                696,
+                727
+            ],
+            "context_span": [
+                10681,
+                11463
+            ]
+        },
+        {
+            "subject": "Prince",
+            "object": "the Trump Campaign",
+            "confidence": 0.6955,
+            "context": "In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team. Dmitriev and Kushner\u2019s friend collaborated on a short written reconciliation plan for the United States and Russia, which Dmitriev implied had been cleared through Putin. The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson.",
+            "object_span": [
+                88,
+                106
+            ],
+            "context_span": [
+                11302,
+                12060
+            ]
+        },
+        {
+            "subject": "Michael Flynn",
+            "object": "National Security",
+            "confidence": 0.5545,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                183,
+                200
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        },
+        {
+            "subject": "Kislyak",
+            "object": "Russian",
+            "confidence": 0.4221,
+            "context": "The Office investigated several other events that have been publicly reported to involve potential Russia-related contacts. For example, the investigation established that interactions between Russian Ambassador Kislyak and Trump Campaign officials both at the candidate\u2019s April 2016 foreign policy speech in Washington, D.C., and during the week of the Republican National Convention were brief, public, and non-substantive. And the investigation did not establish that one Campaign official\u2019s efforts to dilute a portion of the Republican Party platform on providing assistance to Ukraine were undertaken at the behest of candidate Trump or Russia.",
+            "object_span": [
+                193,
+                200
+            ],
+            "context_span": [
+                19321,
+                19971
+            ]
+        },
+        {
+            "subject": "Flynn",
+            "object": "National Security",
+            "confidence": 0.5679,
+            "context": "Those lies materially impaired the investigation of Russian election interference. The Office charged some of those lies as violations of the federal false statements statute. Former National Security Advisor Michael Flynn pleaded guilty to lying about his interactions with Russian Ambassador Kislyak during the transition period. George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project.",
+            "object_span": [
+                183,
+                200
+            ],
+            "context_span": [
+                18264,
+                19046
+            ]
+        }
+    ],
+    "occupation": [
+        {
+            "subject": "Yevgeniy Prigozhin",
+            "object": "oligarch",
+            "confidence": 0.8042,
+            "context": "The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled. Prigozhin is widely reported to have ties to Russian President Vladimir Putin. In mid-2014, the IRA sent employees to the United States on an intelligence-gathering mission with instructions. The IRA later used social media accounts and interest groups to sow discord in the U.S. political system through what it termed \"information warfare.\" The campaign evolved from a generalized program designed in 2014 and 2015 to undermine the U.S. electoral system, to a targeted operation that by early 2016 favored candidate Trump and disparaged candidate Clinton.",
+            "object_span": [
+                79,
+                87
+            ],
+            "context_span": [
+                233,
+                928
+            ]
+        },
+        {
+            "subject": "Prigozhin",
+            "object": "oligarch",
+            "confidence": 0.8113,
+            "context": "The Internet Research Agency (IRA) carried out the earliest Russian interference operations identified by the investigation \u2014 a social media campaign designed to provoke and amplify political and social discord in the United States. The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled.",
+            "object_span": [
+                312,
+                320
+            ],
+            "context_span": [
+                0,
+                368
+            ]
+        },
+        {
+            "subject": "Trump Jr",
+            "object": "lawyer",
+            "confidence": 0.5188,
+            "context": "Throughout that period of time and for several months thereafter, Papadopoulos worked with Mifsud and two Russian nationals to arrange a meeting between the Campaign and the Russian government. No meeting took place. Summer 2016. Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr., Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\"",
+            "object_span": [
+                426,
+                432
+            ],
+            "context_span": [
+                6162,
+                6839
+            ]
+        },
+        {
+            "subject": "John Podesta",
+            "object": "campaign chairman",
+            "confidence": 0.8303,
+            "context": "The Russian intelligence service known as the Main Intelligence Directorate of the General Staff of the Russian Army (GRU) carried out these operations. In March 2016, the GRU began hacking the email accounts of Clinton Campaign volunteers and employees, including campaign chairman John Podesta. In April 2016, the GRU hacked into the computer networks of the Democratic Congressional Campaign Committee (DCCC) and the Democratic National Committee (DNC). The GRU stole hundreds of thousands of documents from the compromised email accounts and networks. Around the time that the DNC announced in mid-June 2016 the Russian government\u2019s role in hacking its network, the GRU began disseminating stolen materials through the fictitious online personas \"DCLeaks\" and \"Guccifer 2.0.\"",
+            "object_span": [
+                265,
+                282
+            ],
+            "context_span": [
+                1799,
+                2579
+            ]
+        },
+        {
+            "subject": "Michael Cohen",
+            "object": "executive",
+            "confidence": 0.728,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                261,
+                270
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Michael Cohen",
+            "object": "attorney",
+            "confidence": 0.753,
+            "context": "George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project. And in February 2019, the U.S. District Court for the District of Columbia found that Manafort lied to the Office and the grand jury concerning his interactions and communications with Konstantin Kilimnik about Trump Campaign polling data and a peace plan for Ukraine.",
+            "object_span": [
+                342,
+                350
+            ],
+            "context_span": [
+                18596,
+                19315
+            ]
+        },
+        {
+            "subject": "Dmitry Peskov",
+            "object": "press secretary",
+            "confidence": 0.8169,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                359,
+                374
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Cohen",
+            "object": "Trump Organization executive",
+            "confidence": 0.7036,
+            "context": "Section IV of this Report details the contacts between Russia and the Trump Campaign during the campaign and transition periods, the most salient of which are summarized below in chronological order\n\n\n\n\n2015. Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov.",
+            "object_span": [
+                451,
+                479
+            ],
+            "context_span": [
+                4748,
+                5346
+            ]
+        },
+        {
+            "subject": "Cohen",
+            "object": "executive",
+            "confidence": 0.6912,
+            "context": "Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails.",
+            "object_span": [
+                122,
+                131
+            ],
+            "context_span": [
+                5096,
+                5860
+            ]
+        },
+        {
+            "subject": "Cohen",
+            "object": "attorney",
+            "confidence": 0.7539,
+            "context": "George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project. And in February 2019, the U.S. District Court for the District of Columbia found that Manafort lied to the Office and the grand jury concerning his interactions and communications with Konstantin Kilimnik about Trump Campaign polling data and a peace plan for Ukraine.",
+            "object_span": [
+                342,
+                350
+            ],
+            "context_span": [
+                18596,
+                19315
+            ]
+        },
+        {
+            "subject": "George Papadopoulos",
+            "object": "foreign policy advisor",
+            "confidence": 0.8241,
+            "context": "Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton.",
+            "object_span": [
+                22,
+                44
+            ],
+            "context_span": [
+                5491,
+                6161
+            ]
+        },
+        {
+            "subject": "Joseph Mifsud",
+            "object": "professor",
+            "confidence": 0.7558,
+            "context": "Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails. One week later, in the first week of May 2016, Papadopoulos suggested to a representative of a foreign government that the Trump Campaign had received indications from the Russian government that it could assist the Campaign through the anonymous release of information damaging to candidate Clinton.",
+            "object_span": [
+                119,
+                128
+            ],
+            "context_span": [
+                5491,
+                6161
+            ]
+        },
+        {
+            "subject": "Mifsud",
+            "object": "professor",
+            "confidence": 0.758,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                652,
+                661
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Papadopoulos",
+            "object": "foreign policy advisor",
+            "confidence": 0.8175,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                555,
+                577
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Page",
+            "object": "foreign policy advisor",
+            "confidence": 0.7894,
+            "context": "The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information. Days after the June 9 meeting, on June 14, 2016, a cybersecurity firm and the DNC announced that Russian government hackers had infiltrated the DNC and obtained access to opposition research on candidate Trump, among other documents. In July 2016, Campaign foreign policy advisor Carter Page traveled in his personal capacity to Moscow and gave the keynote address at the New Economic School.",
+            "object_span": [
+                611,
+                633
+            ],
+            "context_span": [
+                6840,
+                7588
+            ]
+        },
+        {
+            "subject": "Kilimnik",
+            "object": "business",
+            "confidence": 0.6209,
+            "context": "Within days, there was public reporting that U.S. intelligence agencies had \"high confidence\" that the Russian government was behind the theft of emails and documents from the DNC. And within a week of the release, a foreign government informed the FBI about its May 2016 interaction with Papadopoulos and his statement that the Russian government could assist the Trump Campaign. On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence.",
+            "object_span": [
+                694,
+                702
+            ],
+            "context_span": [
+                8277,
+                9070
+            ]
+        },
+        {
+            "subject": "Rex Tillerson",
+            "object": "Secretary of State",
+            "confidence": 0.8091,
+            "context": "Dmitriev and Kushner\u2019s friend collaborated on a short written reconciliation plan for the United States and Russia, which Dmitriev implied had been cleared through Putin. The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V.",
+            "object_span": [
+                290,
+                308
+            ],
+            "context_span": [
+                11737,
+                12536
+            ]
+        },
+        {
+            "subject": "Sergey Kislyak",
+            "object": "Ambassador",
+            "confidence": 0.7055,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                174,
+                184
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Kislyak",
+            "object": "Ambassador",
+            "confidence": 0.7502,
+            "context": "The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\"",
+            "object_span": [
+                327,
+                337
+            ],
+            "context_span": [
+                11908,
+                12545
+            ]
+        },
+        {
+            "subject": "James Comey",
+            "object": "FBI Director",
+            "confidence": 0.826,
+            "context": "A declassified version of the assessment was publicly released that same day. Between mid-January 2017 and early February 2017, three congressional committees\u2014the House Permanent Select Committee on Intelligence (HPSCI), the Senate Select Committee on Intelligence (SSCI), and the Senate Judiciary Committee (SJC)\u2014announced that they would conduct inquiries, or had already been conducting inquiries, into Russian interference in the election. Then-FBI Director James Comey later confirmed to Congress the existence of the FBI\u2019s investigation into Russian interference that had begun before the election.",
+            "object_span": [
+                449,
+                461
+            ],
+            "context_span": [
+                13103,
+                13708
+            ]
+        },
+        {
+            "subject": "Comey",
+            "object": "FBI Director",
+            "confidence": 0.8315,
+            "context": "A declassified version of the assessment was publicly released that same day. Between mid-January 2017 and early February 2017, three congressional committees\u2014the House Permanent Select Committee on Intelligence (HPSCI), the Senate Select Committee on Intelligence (SSCI), and the Senate Judiciary Committee (SJC)\u2014announced that they would conduct inquiries, or had already been conducting inquiries, into Russian interference in the election. Then-FBI Director James Comey later confirmed to Congress the existence of the FBI\u2019s investigation into Russian interference that had begun before the election.",
+            "object_span": [
+                449,
+                461
+            ],
+            "context_span": [
+                13103,
+                13708
+            ]
+        },
+        {
+            "subject": "Jefferson (Jeff) Sessions",
+            "object": "Attorney General",
+            "confidence": 0.8047,
+            "context": "\u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment. He told advisors that it was the end of his presidency, sought to have Attorney General Jefferson (Jeff) Sessions unrecuse from the Russia investigation and to have the Special Counsel removed, and engaged in efforts to curtail the Special Counsel\u2019s investigation and prevent the disclosure of evidence to it, including through public and private contacts with potential witnesses. Those and related actions are described and analyzed in Volume II of the report.",
+            "object_span": [
+                236,
+                252
+            ],
+            "context_span": [
+                14860,
+                15488
+            ]
+        },
+        {
+            "subject": "Sessions",
+            "object": "Attorney General",
+            "confidence": 0.8095,
+            "context": "\u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment. He told advisors that it was the end of his presidency, sought to have Attorney General Jefferson (Jeff) Sessions unrecuse from the Russia investigation and to have the Special Counsel removed, and engaged in efforts to curtail the Special Counsel\u2019s investigation and prevent the disclosure of evidence to it, including through public and private contacts with potential witnesses. Those and related actions are described and analyzed in Volume II of the report.",
+            "object_span": [
+                236,
+                252
+            ],
+            "context_span": [
+                14860,
+                15488
+            ]
+        }
+    ],
+    "owner_of": [
+        {
+            "subject": "Yevgeniy Prigozhin",
+            "object": "companies",
+            "confidence": 0.4061,
+            "context": "The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled. Prigozhin is widely reported to have ties to Russian President Vladimir Putin. In mid-2014, the IRA sent employees to the United States on an intelligence-gathering mission with instructions. The IRA later used social media accounts and interest groups to sow discord in the U.S. political system through what it termed \"information warfare.\" The campaign evolved from a generalized program designed in 2014 and 2015 to undermine the U.S. electoral system, to a targeted operation that by early 2016 favored candidate Trump and disparaged candidate Clinton.",
+            "object_span": [
+                111,
+                120
+            ],
+            "context_span": [
+                233,
+                928
+            ]
+        },
+        {
+            "subject": "Prigozhin",
+            "object": "companies",
+            "confidence": 0.4272,
+            "context": "The Internet Research Agency (IRA) carried out the earliest Russian interference operations identified by the investigation \u2014 a social media campaign designed to provoke and amplify political and social discord in the United States. The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled.",
+            "object_span": [
+                344,
+                353
+            ],
+            "context_span": [
+                0,
+                368
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "Trump Tower",
+            "confidence": 0.544,
+            "context": "Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016. Immediately upon his return to London from that trip, Mifsud told Papadopoulos that the Russian government had \"dirt\" on Hillary Clinton in the form of thousands of emails.",
+            "object_span": [
+                46,
+                57
+            ],
+            "context_span": [
+                5096,
+                5860
+            ]
+        }
+    ],
+    "position_held": [
+        {
+            "subject": "Vladimir Putin",
+            "object": "Russian President",
+            "confidence": 0.671,
+            "context": "The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled. Prigozhin is widely reported to have ties to Russian President Vladimir Putin. In mid-2014, the IRA sent employees to the United States on an intelligence-gathering mission with instructions. The IRA later used social media accounts and interest groups to sow discord in the U.S. political system through what it termed \"information warfare.\" The campaign evolved from a generalized program designed in 2014 and 2015 to undermine the U.S. electoral system, to a targeted operation that by early 2016 favored candidate Trump and disparaged candidate Clinton.",
+            "object_span": [
+                181,
+                198
+            ],
+            "context_span": [
+                233,
+                928
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "presidency",
+            "confidence": 0.6018,
+            "context": "Although the investigation established that the Russian government perceived it would benefit from a Trump presidency and worked to secure that outcome, and that the Campaign expected it would benefit electorally from information stolen and released through Russian efforts, the investigation did not establish that members of the Trump Campaign conspired or coordinated with the Russian government in its election interference activities.",
+            "object_span": [
+                107,
+                117
+            ],
+            "context_span": [
+                3999,
+                4439
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "presumptive Republican nominee for President",
+            "confidence": 0.7658,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President.",
+            "object_span": [
+                110,
+                154
+            ],
+            "context_span": [
+                6392,
+                6548
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "President",
+            "confidence": 0.5178,
+            "context": "Kilimnik requested the meeting to deliver in person a peace plan for Ukraine that Manafort acknowledged to the Special Counsel\u2019s Office was a \"backdoor\" way for Russia to control part of eastern Ukraine; both men believed the plan would require candidate Trump\u2019s assent to succeed (were he to be elected President).",
+            "object_span": [
+                304,
+                313
+            ],
+            "context_span": [
+                9070,
+                9386
+            ]
+        },
+        {
+            "subject": "Trump",
+            "object": "President-Elect",
+            "confidence": 0.522,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                416,
+                431
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Elect Trump",
+            "object": "President",
+            "confidence": 0.6922,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                416,
+                425
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Clinton",
+            "object": "Secretary of State",
+            "confidence": 0.7773,
+            "context": "Around the same time, candidate Trump announced that he hoped Russia would recover emails described as missing from a private server used by Clinton when she was Secretary of State (he later said that he was speaking sarcastically). Wikileaks began releasing Podesta\u2019s stolen emails on October 7, 2016, less than one hour after a U.S. media outlet released video considered damaging to candidate Trump.",
+            "object_span": [
+                162,
+                180
+            ],
+            "context_span": [
+                3029,
+                3432
+            ]
+        },
+        {
+            "subject": "Podesta",
+            "object": "campaign chairman",
+            "confidence": 0.7733,
+            "context": "The Russian intelligence service known as the Main Intelligence Directorate of the General Staff of the Russian Army (GRU) carried out these operations. In March 2016, the GRU began hacking the email accounts of Clinton Campaign volunteers and employees, including campaign chairman John Podesta. In April 2016, the GRU hacked into the computer networks of the Democratic Congressional Campaign Committee (DCCC) and the Democratic National Committee (DNC). The GRU stole hundreds of thousands of documents from the compromised email accounts and networks. Around the time that the DNC announced in mid-June 2016 the Russian government\u2019s role in hacking its network, the GRU began disseminating stolen materials through the fictitious online personas \"DCLeaks\" and \"Guccifer 2.0.\"",
+            "object_span": [
+                265,
+                282
+            ],
+            "context_span": [
+                1799,
+                2579
+            ]
+        },
+        {
+            "subject": "Putin",
+            "object": "President",
+            "confidence": 0.6844,
+            "context": "The IRA was based in St. Petersburg, Russia, and received funding from Russian oligarch Yevgeniy Prigozhin and companies he controlled. Prigozhin is widely reported to have ties to Russian President Vladimir Putin. In mid-2014, the IRA sent employees to the United States on an intelligence-gathering mission with instructions. The IRA later used social media accounts and interest groups to sow discord in the U.S. political system through what it termed \"information warfare.\" The campaign evolved from a generalized program designed in 2014 and 2015 to undermine the U.S. electoral system, to a targeted operation that by early 2016 favored candidate Trump and disparaged candidate Clinton.",
+            "object_span": [
+                189,
+                198
+            ],
+            "context_span": [
+                233,
+                928
+            ]
+        },
+        {
+            "subject": "Michael Cohen",
+            "object": "Trump Organization executive",
+            "confidence": 0.6373,
+            "context": "Some of the earliest contacts were made in connection with a Trump Organization real-estate project in Russia known as Trump Tower Moscow. Candidate Trump signed a Letter of Intent for Trump Tower Moscow by November 2015, and in January 2016 Trump Organization executive Michael Cohen emailed and spoke about the project with the office of Russian government press secretary Dmitry Peskov. The Trump Organization pursued the project through at least June 2016, including by considering travel to Russia by Cohen and candidate Trump. Spring 2016. Campaign foreign policy advisor George Papadopoulos made early contact with Joseph Mifsud, a London-based professor who had connections to Russia and traveled to Moscow in April 2016.",
+            "object_span": [
+                242,
+                270
+            ],
+            "context_span": [
+                4957,
+                5687
+            ]
+        },
+        {
+            "subject": "Michael Cohen",
+            "object": "Former Trump Organization attorney",
+            "confidence": 0.6862,
+            "context": "George Papadopoulos, a foreign policy advisor during the campaign period, pleaded guilty to lying to investigators about, inter alia, the nature and timing of his interactions with Joseph Mifsud, the professor who told Papadopoulos that the Russians had dirt on candidate Clinton in the form of thousands of emails. Former Trump Organization attorney Michael Cohen pleaded guilty to making false statements to Congress about the Trump Moscow project. And in February 2019, the U.S. District Court for the District of Columbia found that Manafort lied to the Office and the grand jury concerning his interactions and communications with Konstantin Kilimnik about Trump Campaign polling data and a peace plan for Ukraine.",
+            "object_span": [
+                316,
+                350
+            ],
+            "context_span": [
+                18596,
+                19315
+            ]
+        },
+        {
+            "subject": "Paul Manafort",
+            "object": "campaign chairman",
+            "confidence": 0.7954,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr. , Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information",
+            "object_span": [
+                282,
+                299
+            ],
+            "context_span": [
+                6393,
+                7193
+            ]
+        },
+        {
+            "subject": "Paul Manafort",
+            "object": "Trump campaign chairman",
+            "confidence": 0.7838,
+            "context": "On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence. Kilimnik requested the meeting to deliver in person a peace plan for Ukraine that Manafort acknowledged to the Special Counsel\u2019s Office was a \"backdoor\" way for Russia to control part of eastern Ukraine; both men believed the plan would require candidate Trump\u2019s assent to succeed (were he to be elected President).",
+            "object_span": [
+                235,
+                258
+            ],
+            "context_span": [
+                8658,
+                9386
+            ]
+        },
+        {
+            "subject": "Carter Page",
+            "object": "foreign policy advisor",
+            "confidence": 0.7753,
+            "context": "Days after the June 9 meeting, on June 14, 2016, a cybersecurity firm and the DNC announced that Russian government hackers had infiltrated the DNC and obtained access to opposition research on candidate Trump, among other documents. In July 2016, Campaign foreign policy advisor Carter Page traveled in his personal capacity to Moscow and gave the keynote address at the New Economic School. Page had lived and worked in Russia between 2003 and 2007. After returning to the United States, Page became acquainted with at least two Russian intelligence officers, one of whom was later charged in 2015 with conspiracy to act as an unregistered agent of Russia. Page\u2019s July 2016 trip to Moscow and his advocacy for pro-Russian foreign policy drew media attention.",
+            "object_span": [
+                257,
+                279
+            ],
+            "context_span": [
+                7195,
+                7956
+            ]
+        },
+        {
+            "subject": "Manafort",
+            "object": "campaign chairman",
+            "confidence": 0.7956,
+            "context": "Russian outreach to the Trump Campaign continued into the summer of 2016, as candidate Trump was becoming the presumptive Republican nominee for President. On June 9, 2016, for example, a Russian lawyer met with senior Trump Campaign officials Donald Trump Jr. , Jared Kushner, and campaign chairman Paul Manafort to deliver what the email proposing the meeting had described as \"official documents and information that would incriminate Hillary.\" The materials were offered to Trump Jr. as \"part of Russia and its government\u2019s support for Mr. Trump.\" The written communications setting up the meeting showed that the Campaign anticipated receiving information from Russia that could assist candidate Trump\u2019s electoral prospects, but the Russian lawyer\u2019s presentation did not provide such information",
+            "object_span": [
+                282,
+                299
+            ],
+            "context_span": [
+                6393,
+                7193
+            ]
+        },
+        {
+            "subject": "Manafort",
+            "object": "Trump campaign chairman",
+            "confidence": 0.8244,
+            "context": "Within days, there was public reporting that U.S. intelligence agencies had \"high confidence\" that the Russian government was behind the theft of emails and documents from the DNC. And within a week of the release, a foreign government informed the FBI about its May 2016 interaction with Papadopoulos and his statement that the Russian government could assist the Trump Campaign. On July 31, 2016, based on the foreign government reporting, the FBI opened an investigation into potential coordination between the Russian government and individuals associated with the Trump Campaign. Separately, on August 2, 2016, Trump campaign chairman Paul Manafort met in New York City with his long-time business associate Konstantin Kilimnik, who the FBI assesses to have ties to Russian intelligence.",
+            "object_span": [
+                616,
+                639
+            ],
+            "context_span": [
+                8277,
+                9070
+            ]
+        },
+        {
+            "subject": "Manafort",
+            "object": "Special Counsel \u2019 s Office",
+            "confidence": 0.549,
+            "context": "Page\u2019s July 2016 trip to Moscow and his advocacy for pro-Russian foreign policy drew media attention. The Campaign then distanced itself from Page and, by late September 2016, removed him from the Campaign. July 2016 was also the month WikiLeaks first released emails stolen by the GRU from the DNC. On July 22, 2016, WikiLeaks posted thousands of internal DNC documents revealing information about the Clinton Campaign.  Kilimnik requested the meeting to deliver in person a peace plan for Ukraine that Manafort acknowledged to the Special Counsel\u2019s Office was a \"backdoor\" way for Russia to control part of eastern Ukraine; both men believed the plan would require candidate Trump\u2019s assent to succeed (were he to be elected President).",
+            "object_span": [
+                533,
+                557
+            ],
+            "context_span": [
+                7855,
+                8655
+            ]
+        },
+        {
+            "subject": "Kirill Dmitriev",
+            "object": "chief executive officer of Russia \u2019 s sovereign wealth fund",
+            "confidence": 0.8438,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there Kirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                219,
+                276
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Dmitriev",
+            "object": "chief executive officer of Russia \u2019 s sovereign wealth fund",
+            "confidence": 0.8381,
+            "context": "Post-2016 Election. Immediately after the November 8 election, Russian government officials and prominent Russian businessmen began trying to make inroads into the new administration. The most senior levels of the Russian government encouraged these efforts. The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there Kirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration.",
+            "object_span": [
+                478,
+                535
+            ],
+            "context_span": [
+                10681,
+                11301
+            ]
+        },
+        {
+            "subject": "Steve Bannon",
+            "object": "senior Trump advisor",
+            "confidence": 0.8163,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                489,
+                509
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Prince",
+            "object": "an associate of senior Trump advisor Steve Bannon",
+            "confidence": 0.7601,
+            "context": "Post-2016 Election. Immediately after the November 8 election, Russian government officials and prominent Russian businessmen began trying to make inroads into the new administration. The most senior levels of the Russian government encouraged these efforts. The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon.",
+            "object_span": [
+                732,
+                781
+            ],
+            "context_span": [
+                10681,
+                11463
+            ]
+        },
+        {
+            "subject": "Bannon",
+            "object": "senior Trump advisor",
+            "confidence": 0.8179,
+            "context": "The Russian Embassy made contact hours after the election to congratulate the President-Elect and to arrange a call with President Putin. Several Russian businessmen picked up the effort from there\n\nKirill Dmitriev, the chief executive officer of Russia\u2019s sovereign wealth fund, was among the Russians who tried to make contact with the incoming administration. In early December, a business associate steered Dmitriev to Erik Prince, a supporter of the Trump Campaign and an associate of senior Trump advisor Steve Bannon. Dmitriev and Prince later met face-to-face in January 2017 in the Seychelles and discussed U.S.-Russia relations. During the same period, another business associate introduced Dmitriev to a friend of Jared Kushner who had not served on the Campaign or the Transition Team.",
+            "object_span": [
+                489,
+                509
+            ],
+            "context_span": [
+                10940,
+                11736
+            ]
+        },
+        {
+            "subject": "Michael Flynn",
+            "object": "National Security Advisor",
+            "confidence": 0.8183,
+            "context": "On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\" The next day, on December 31, 2016, Kislyak called Flynn and told him the request had been received at the highest levels and Russia had chosen not to retaliate as a result of Flynn\u2019s request.",
+            "object_span": [
+                119,
+                144
+            ],
+            "context_span": [
+                12062,
+                12738
+            ]
+        },
+        {
+            "subject": "Flynn",
+            "object": "National Security Advisor",
+            "confidence": 0.814,
+            "context": "The friend gave that proposal to Kushner before the inauguration, and Kushner later gave copies to Bannon and incoming Secretary of State Rex Tillerson. On December 29, 2016, then-President Obama imposed sanctions on Russia for having interfered in the election. Incoming National Security Advisor Michael Flynn called Russian Ambassador Sergey Kislyak and asked Russia not to escalate the situation in response to the sanctions. The following day, Putin announced that Russia would not take retaliatory measures in response to the sanctions at that time. Hours later, President-Elect Trump tweeted, \"Great move on delay (by V. Putin).\"",
+            "object_span": [
+                272,
+                297
+            ],
+            "context_span": [
+                11908,
+                12545
+            ]
+        },
+        {
+            "subject": "Rod Rosenstein",
+            "object": "Acting Attorney General",
+            "confidence": 0.8033,
+            "context": "The investigation continued under then-Director Comey for the next seven weeks until May 9, 2017, when President Trump fired Comey as FBI Director\u2014an action which is analyzed in Volume II of the report. On May 17, 2017, Acting Attorney General Rod Rosenstein appointed the Special Counsel and authorized him to conduct the investigation that Comey had confirmed in his congressional testimony, as well as matters arising directly from the investigation, and any other matters within the scope of 28 C.F.R. \u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation. President Trump reacted negatively to the Special Counsel\u2019s appointment.",
+            "object_span": [
+                220,
+                243
+            ],
+            "context_span": [
+                14353,
+                15025
+            ]
+        },
+        {
+            "subject": "Special Counsel",
+            "object": "conduct the investigation that Comey had confirmed in his congressional testimony",
+            "confidence": 0.5659,
+            "context": "The investigation continued under then-Director Comey for the next seven weeks until May 9, 2017, when President Trump fired Comey as FBI Director\u2014an action which is analyzed in Volume II of the report. On May 17, 2017, Acting Attorney General Rod Rosenstein appointed the Special Counsel and authorized him to conduct the investigation that Comey had confirmed in his congressional testimony, as well as matters arising directly from the investigation, and any other matters within the scope of 28 C.F.R. \u00a7 600.4(a), which generally covers efforts to interfere with or obstruct the investigation.",
+            "object_span": [
+                311,
+                392
+            ],
+            "context_span": [
+                14353,
+                14951
+            ]
+        },
+        {
+            "subject": "Sessions",
+            "object": "Senate",
+            "confidence": 0.6041,
+            "context": "And the investigation did not establish that one Campaign official\u2019s efforts to dilute a portion of the Republican Party platform on providing assistance to Ukraine were undertaken at the behest of candidate Trump or Russia. The investigation also did not establish that a meeting between Kislyak and Sessions in September 2016 at Sessions\u2019s Senate office included any more than a passing mention of the presidential campaign. The investigation did not always yield admissible information or testimony, or a complete picture of the activities undertaken by subjects of the investigation. Some individuals invoked their Fifth Amendment right against compelled self-incrimination and were not, in the Office\u2019s judgment, appropriate candidates for grants of immunity.",
+            "object_span": [
+                342,
+                348
+            ],
+            "context_span": [
+                19747,
+                20512
+            ]
+        }
+    ]
+}
