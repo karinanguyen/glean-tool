@@ -14,16 +14,22 @@
     <h1> Glean </h1>
     <div class="user-input">
         <div class="textfield-header">
-            <p> New OSINT tiny tool ✨✨✨ </p>
+            <p id = 'new'> New OSINT tiny tool ✨✨✨ </p>
         </div>
         <div class="textfield">
-            <textarea rows="24" placeholder="Enter text of a document or upload to do some magic ✨" id="textarea"></textarea>
+            <textarea rows="24" placeholder="Enter text of a document or upload to do some magic ✨" id="textarea" name="textarea"></textarea>
+        </div>
+        <div class="button">
+            <button id="submit_button">Submit</button>
+        </div>
+    </div>
+    <div class="results">
+        <div class="relations-table">
+            
         </div>
     </div>
 
-    <!-- <script>
-        const text = document.getElementById("textarea").value;
-        const b = JSON.stringify(text); 
-    </script>  -->
+
+    <script src="main.js"></script> 
 </body>
 </html>
