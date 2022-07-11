@@ -30,8 +30,30 @@ def static_files(path):
 def extract_relations():
     # JUST FOR TESTING
     with open("sample2.json") as file:
-        return file.read()
+        # text = file.read()
+        # text_data = json.loads(text)
+        # activities = text_data["activity_done"]
+        # list_characters = []
+        # for subject in activities:
+        #     character = subject["subject"]
+        #     list_characters.append(character)
+        # unique_subjects = set(list_characters) 
 
+
+        # #TODO: Fix the Context String Split
+        # list_of_actions = [activity['object'] for activity in activities]
+        # list_of_context = [[activity['context']] for activity in activities] 
+        # action_by_context = dict(zip(list_of_actions, list_of_context)) 
+
+
+        # activities_by_subject = {
+        #     character: action_by_context
+        #     for character in unique_subjects
+        # }
+        # print(activities_by_subject)
+        # # return activities_by_subject
+        return file.read()
+  
     api_key = os.environ["API_KEY"]
     if not api_key:
         raise Exception("NO API KEY HERE!")

@@ -11,12 +11,18 @@ with open("sample2.json") as file:
     for subject in activities:
         character = subject["subject"]
         list_characters.append(character)
-    unique_subjects = set(list_characters)
+    unique_subjects = set(list_characters) 
+
+
+    #TODO: Fix the Context String Split
+    list_of_actions = [activity['object'] for activity in activities]
+    list_of_context = [[activity['context']] for activity in activities] 
+    action_by_context = dict(zip(list_of_actions, list_of_context)) 
+
 
     activities_by_subject = {
-        character: [
-            activity['object'] for activity in activities if activity["subject"] == character
-        ]
+        character: action_by_context
         for character in unique_subjects
     }
+
     pp(activities_by_subject)
