@@ -123,7 +123,7 @@ function Tree(
     .attr("font-family", "sans-serif")
     .attr("font-size", 16);
 
-  svg
+  const links = svg
     .append("g")
     .attr("fill", "none")
     .attr("stroke", stroke)
@@ -144,13 +144,13 @@ function Tree(
 
   svg.append("defs").html(`
     <style>
-    .highlight circle { fill:pink }
-    .highlight circle { fill:pink }
-    .highlight text { fill:pink }
-    .leaf circle { fill:red }
-    .leaf circle { fill:red }
-    .leaf text { fill:red }
-    path.highlight { stroke:pink }
+    .highlight circle { fill:#C20C0C }
+    .highlight text { fill:#D18694 }
+    .leaf circle { fill :#C20C0C }
+    .leaf text { fill:#C20C0C }
+    .leaf {cursor: pointer}
+    .leaf {font-size: 17px}
+    path.highlight { stroke: red }
     <style>`);
 
   function dist2(a, b) {
@@ -165,20 +165,27 @@ function Tree(
     .attr("xlink:href", link == null ? null : (d) => link(d.data, d))
     .attr("target", link == null ? null : linkTarget)
     .attr("transform", (d) => `translate(${d.y},${d.x})`)
-    .on("mouseover", function (d) {
-      // Highlight the nodes: every node is green except of him
-      node.style("fill", "black");
-      d3.select(this).style("fill", "#b3696a").style('font-size','17px').style("cursor","pointer");
-      // Highlight the connections
-      root.links().style("stroke", function (link_d) {
-        return link_d.children === d.id || link_d.children === d.id
-          ? "#b3696a"
-          : "#b8b8b8";
-      });
-    })
-    .on("mouseout", function (d) {
-      node.style("fill", "black").style('font-size','14px');
-      root.links().style("stroke", "black");
+    .on("mousemove", function (evt) {
+      const m = d3.pointer(evt, svg.node());
+      const leaf =
+        node.data()[d3.scan(node.data().map((d) => dist2([d.y, d.x], m)))];
+
+      let d = root
+        .links()
+        .filter((d) => d.target === leaf)
+        .pop().target;
+      const path = [];
+
+      do {
+        path.push(d.data);
+      } while ((d = d.parent));
+
+      node.classed("highlight", (d) => path.indexOf(d.data) > -1);
+      node.classed("leaf", (d) => path.indexOf(d.data) === 0);
+      links.classed("highlight", (d) => path.indexOf(d.target.data) > -1);
+
+      svg.node().value = path;
+      svg.node().dispatchEvent(new CustomEvent("input"));
     });
 
   node
@@ -191,7 +198,7 @@ function Tree(
   if (L)
     node
       .append("text")
-      .style('font-weight', '300')
+      .style("font-weight", "300")
       .attr("dy", "0.12em")
       .attr("x", (d) => (d.children ? -6 : 6))
       .attr("text-anchor", (d) => (d.children ? "end" : "start"))
@@ -218,7 +225,6 @@ button.onclick = async () => {
     label: (d) => d.name,
     width: 1800,
     height: 1500,
-    // margin: 220,
   });
 
   const text_field = document.querySelector(".textfield");
