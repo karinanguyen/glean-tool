@@ -1,97 +1,254 @@
+import * as d3 from "https://cdn.skypack.dev/d3@7";
+// import * as d3 from 'https://unpkg.com/d3?module';
 
-// function save() { 
+// import * as d3 from 'd3';
+// function save() {
 //   localStorage.setItem("text", textarea.value);
 //   console.log(textarea.value)
 // }
 
-function create(tag) {
-  return document.createElement(tag);
-}
+// function create(tag) {
+//   return document.createElement(tag);
+// }
+console.log(d3);
 
-function build_timeline(response_json) {
-  var table_container = document.querySelector(".relations-table"); 
-  var activities = response_json['activity_done'] 
-  console.log(activities)
-  var list_characters = [] 
-  activities.forEach(item => list_characters.push(item['subject']));
-  const uniqueCharacters = Array.from(new Set(list_characters)); 
-  console.log(uniqueCharacters)
+function characters(response_json) {
+  var activities = response_json["activity_done"];
+  var list_characters = [];
+  activities.forEach((item) => list_characters.push(item["subject"]));
+  const uniqueCharacters = Array.from(new Set(list_characters));
+  console.log(uniqueCharacters);
 
-  var list_of_actions = [] 
-  activities.forEach(item => list_of_actions.push(item['object'])); 
-  console.log(list_of_actions)
-  
-//MAYBE WE DON'T NEED NESTED DICTIONARY, TRY TO MAKE MULTIPLE DICTIONARIES
+  const character_actions = [];
+  for (const character of uniqueCharacters) {
+    const matched_activities = activities.filter((activity) => {
+      if (activity["subject"] == character) {
+        return true;
+      }
+      return false;
+    });
 
-  var list_of_context = [] 
-  activities.forEach(item => list_of_context.push(item['context'])); 
-  console.log(list_of_context) 
-
-  var action_by_context = {};
-  list_of_actions.forEach((key, i) => action_by_context[key] = list_of_context[i]);
-  console.log(action_by_context); 
-
-  new_dict = {}  
-  // TODO: FIX THE NEW DICT (FILTER THE ACTIONS BY CHARACTERS)
-  for (var character of uniqueCharacters) {
-    new_dict[character] = action_by_context
-  } 
-
-  console.log(new_dict)
-
-  const dateRegex = /(?:January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}|(\d{4})|(?:January|February|March|April|May|June|July|August|September|October|November|December) \d{4}/g;
-  for (const property in new_dict) {
-    for (const action in new_dict[property]) {
-      string = new_dict[property][action] 
-      time = string.match(dateRegex) 
-      console.log(time)
-      console.log(`PERSON: ${property}. ACTION: ${action}. CONTEXT: ${new_dict[property][action]}`) 
-
-    }
-    // console.log(`${property}: ${new_dict[property]}`);
+    character_actions.push({
+      name: character,
+      children: matched_activities.map((activity) => {
+        return {
+          name: activity.object,
+          value: activity.confidence,
+        }
+      })
+    });
   }
-
-
-  // console.log(Object.values(new_dict))
-
- 
-  // for (const subject in activities){
-  //   console.log(subject['subject'])
-  // }
-  // for (const relation_type in response_json) {
-  //   console.log(relation_type);
-  //   const table = create('table');
-
-  //   const relations = response_json[relation_type];
-  //   for (const relation of relations) {
-  //     const table_row = create('tr');
-  //     console.log(relation_type, relation);
-
-  //     const cell1 = create('td');
-  //     cell1.textContent = relation.subject;
-  //     const cell2 = create('td');
-  //     cell2.textContent = relation.object;
-  //     const cell3 = create('td');
-  //     cell3.textContent = relation.context;
-
-  //     table_row.append(cell1, cell2, cell3);
-  //     table.append(table_row);
-  //   }
-
-  //   table_container.append(table);
-  // }
+  console.log(character_actions);
+  return {
+    name: 'Document',
+    children: character_actions,
+  };
 }
 
-var button = document.querySelector("#submit_button")
+// Copyright 2022 Observable, Inc.
+// Released under the ISC license.
+// https://observablehq.com/@d3/radial-tree
+// Copyright 2021 Observable, Inc.
+// Released under the ISC license.
+// https://observablehq.com/@d3/tree
+function Tree(data, { // data is either tabular (array of objects) or hierarchy (nested objects)
+  path, // as an alternative to id and parentId, returns an array identifier, imputing internal nodes
+  id = Array.isArray(data) ? d => d.id : null, // if tabular data, given a d in data, returns a unique identifier (string)
+  parentId = Array.isArray(data) ? d => d.parentId : null, // if tabular data, given a node d, returns its parent’s identifier
+  children, // if hierarchical data, given a d in data, returns its children
+  tree = d3.tree, // layout algorithm (typically d3.tree or d3.cluster)
+  sort, // how to sort nodes prior to layout (e.g., (a, b) => d3.descending(a.height, b.height))
+  label, // given a node d, returns the display name
+  title, // given a node d, returns its hover text
+  link, // given a node d, its link (if any)
+  linkTarget = "_blank", // the target attribute for links (if any)
+  width, // outer width, in pixels
+  height, // outer height, in pixels
+  r = 3, // radius of nodes
+  padding = 1, // horizontal padding for first and last column
+  fill = "#999", // fill for nodes
+  fillOpacity, // fill opacity for nodes
+  stroke = "#555", // stroke for links
+  strokeWidth = 1.5, // stroke width for links
+  strokeOpacity = 0.4, // stroke opacity for links
+  strokeLinejoin, // stroke line join for links
+  strokeLinecap, // stroke line cap for links
+  halo = "#fff", // color of label halo 
+  haloWidth = 5, // padding around the labels
+} = {}) {
+
+  // If id and parentId options are specified, or the path option, use d3.stratify
+  // to convert tabular data to a hierarchy; otherwise we assume that the data is
+  // specified as an object {children} with nested objects (a.k.a. the “flare.json”
+  // format), and use d3.hierarchy.
+  const root = path != null ? d3.stratify().path(path)(data)
+      : id != null || parentId != null ? d3.stratify().id(id).parentId(parentId)(data)
+      : d3.hierarchy(data, children);
+
+  // Sort the nodes.
+  if (sort != null) root.sort(sort);
+
+  // Compute labels and titles.
+  const descendants = root.descendants();
+  const L = label == null ? null : descendants.map(d => label(d.data, d));
+
+  // Compute the layout.
+  const dx = 20;
+  const dy = width / (root.height + padding);
+  tree().nodeSize([dx, dy])(root);
+
+  // Center the tree.
+  let x0 = Infinity;
+  let x1 = -x0;
+  root.each(d => {
+    if (d.x > x1) x1 = d.x;
+    if (d.x < x0) x0 = d.x;
+  });
+
+  // Compute the default height.
+  if (height === undefined) height = x1 - x0 + dx * 2;
+
+  const svg = d3.create("svg")
+      .attr("viewBox", [-dy * padding / 2, x0 - dx, width, height])
+      .attr("width", width)
+      .attr("height", height)
+      .attr("style", "max-width: 100%; height: auto; height: intrinsic;")
+      .attr("font-family", "sans-serif")
+      .attr("font-size", 12);
+
+  svg.append("g")
+      .attr("fill", "none")
+      .attr("stroke", stroke)
+      .attr("stroke-opacity", strokeOpacity)
+      .attr("stroke-linecap", strokeLinecap)
+      .attr("stroke-linejoin", strokeLinejoin)
+      .attr("stroke-width", strokeWidth)
+    .selectAll("path")
+      .data(root.links())
+      .join("path")
+        .attr("d", d3.linkHorizontal()
+            .x(d => d.y)
+            .y(d => d.x));
+
+  const node = svg.append("g")
+    .selectAll("a")
+    .data(root.descendants())
+    .join("a")
+      .attr("xlink:href", link == null ? null : d => link(d.data, d))
+      .attr("target", link == null ? null : linkTarget)
+      .attr("transform", d => `translate(${d.y},${d.x})`);
+
+  node.append("circle")
+      .attr("fill", d => d.children ? stroke : fill)
+      .attr("r", r);
+
+  if (title != null) node.append("title")
+      .text(d => title(d.data, d));
+
+  if (L) node.append("text")
+      .attr("dy", "0.32em")
+      .attr("x", d => d.children ? -6 : 6)
+      .attr("text-anchor", d => d.children ? "end" : "start")
+      .attr("paint-order", "stroke")
+      .attr("stroke", halo)
+      .attr("stroke-width", haloWidth)
+      .text((d, i) => L[i]);
+
+  return svg.node();
+}
+
+// function build_timeline(response_json) {
+//   var table_container = document.querySelector(".relations-table");
+//   var activities = response_json['activity_done']
+//   console.log(activities)
+//   var list_characters = []
+//   activities.forEach(item => list_characters.push(item['subject']));
+//   const uniqueCharacters = Array.from(new Set(list_characters));
+//   console.log(uniqueCharacters)
+
+//   var list_of_actions = []
+//   activities.forEach(item => list_of_actions.push(item['object']));
+//   console.log(list_of_actions)
+
+// //MAYBE WE DON'T NEED NESTED DICTIONARY, TRY TO MAKE MULTIPLE DICTIONARIES
+
+//   var list_of_context = []
+//   activities.forEach(item => list_of_context.push(item['context']));
+//   console.log(list_of_context)
+
+//   var action_by_context = {};
+//   list_of_actions.forEach((key, i) => action_by_context[key] = list_of_context[i]);
+//   console.log(action_by_context);
+
+// new_dict = {}
+// // TODO: FIX THE NEW DICT (FILTER THE ACTIONS BY CHARACTERS)
+// for (var character of uniqueCharacters) {
+//   new_dict[character] = action_by_context
+// }
+
+// console.log(new_dict)
+
+// const dateRegex = /(?:January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}|(\d{4})|(?:January|February|March|April|May|June|July|August|September|October|November|December) \d{4}/g;
+// for (const property in new_dict) {
+//   for (const action in new_dict[property]) {
+//     string = new_dict[property][action]
+//     time = string.match(dateRegex)
+//     console.log(time)
+//     console.log(`PERSON: ${property}. ACTION: ${action}. TIME: ${time} CONTEXT: ${new_dict[property][action]}`)
+
+//   }
+//   // console.log(`${property}: ${new_dict[property]}`);
+// }
+
+// console.log(Object.values(new_dict))
+
+// for (const subject in activities){
+//   console.log(subject['subject'])
+// }
+// for (const relation_type in response_json) {
+//   console.log(relation_type);
+//   const table = create('table');
+
+//   const relations = response_json[relation_type];
+//   for (const relation of relations) {
+//     const table_row = create('tr');
+//     console.log(relation_type, relation);
+
+//     const cell1 = create('td');
+//     cell1.textContent = relation.subject;
+//     const cell2 = create('td');
+//     cell2.textContent = relation.object;
+//     const cell3 = create('td');
+//     cell3.textContent = relation.context;
+
+//     table_row.append(cell1, cell2, cell3);
+//     table.append(table_row);
+//   }
+
+//   table_container.append(table);
+// }
+
+var button = document.querySelector("#submit_button");
 button.onclick = async () => {
   var text_area = document.querySelector("#textarea");
   var local_text = text_area.value;
-  const response = await fetch('/extract-relations', {
-    method: 'POST',
+  const response = await fetch("/extract-relations", {
+    method: "POST",
     body: JSON.stringify({
       text: local_text,
     }),
   });
   const response_json = await response.json();
-  build_timeline(response_json);
-}
+  const tree_svg_element = Tree(characters(response_json), {
+    label: d => d.name,
+    width: 2000,
+    height: 1500,
+    // margin: 220,
+  });
+
+  const text_field = document.querySelector(".textfield");
+  text_field.parentNode.insertBefore(
+    tree_svg_element,
+    text_field.nextSibling
+  );
+};
